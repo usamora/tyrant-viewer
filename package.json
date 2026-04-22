@@ -1,0 +1,21 @@
+{
+  "name": "tyrant-viewer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "postinstall": "patch-package"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "patch-package": "^8.0.1",
+    "typescript": "6.0.3",
+    "vite": "8.0.9"
+  },
+  "dependencies": {
+    "untitled-pixi-live2d-engine": "^1.0.2"
+  }
+}

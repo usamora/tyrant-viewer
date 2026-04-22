@@ -1,0 +1,32 @@
+diff --git a/node_modules/untitled-pixi-live2d-engine/dist/cubism.es.js b/node_modules/untitled-pixi-live2d-engine/dist/cubism.es.js
+index 0c55049..14ba246 100644
+--- a/node_modules/untitled-pixi-live2d-engine/dist/cubism.es.js
++++ b/node_modules/untitled-pixi-live2d-engine/dist/cubism.es.js
+@@ -11034,7 +11034,10 @@ class CubismRenderer_WebGL extends CubismRenderer {
+     }
+     this.preDraw();
+     const drawableCount = this.getModel().getDrawableCount();
+-    const renderOrder = this.getModel().getDrawableRenderOrders();
++    let renderOrder = this.getModel().getDrawableRenderOrders();
++    if (renderOrder == null) {
++      renderOrder = this.getModel().getModel().getRenderOrders();
++    }
+     for (let i = 0; i < drawableCount; ++i) {
+       const order = renderOrder[i];
+       this._sortedDrawableIndexList.set(order, i);
+diff --git a/node_modules/untitled-pixi-live2d-engine/dist/cubism.js b/node_modules/untitled-pixi-live2d-engine/dist/cubism.js
+index fef5673..0adba10 100644
+--- a/node_modules/untitled-pixi-live2d-engine/dist/cubism.js
++++ b/node_modules/untitled-pixi-live2d-engine/dist/cubism.js
+@@ -11036,7 +11036,10 @@ var __async = (__this, __arguments, generator) => {
+       }
+       this.preDraw();
+       const drawableCount = this.getModel().getDrawableCount();
+-      const renderOrder = this.getModel().getDrawableRenderOrders();
++      let renderOrder = this.getModel().getDrawableRenderOrders();
++      if (renderOrder == null) {
++        renderOrder = this.getModel().getModel().getRenderOrders();
++      }
+       for (let i = 0; i < drawableCount; ++i) {
+         const order = renderOrder[i];
+         this._sortedDrawableIndexList.set(order, i);
