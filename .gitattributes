@@ -1,0 +1,2 @@
+src/assets/chars/* filter=lfs diff=lfs merge=lfs -text
+src/assets/chars/* filter=lfs diff=lfs merge=lfs -text
