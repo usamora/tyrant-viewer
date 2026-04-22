@@ -27,6 +27,8 @@ export function enableDrag(model: Live2DModel) {
   })
 
   model.on("pointermove", (e: any) => {
+    e.preventDefault()
+    
     if (!dragging) return;
 
     const dx = e.global.x - lastX;
