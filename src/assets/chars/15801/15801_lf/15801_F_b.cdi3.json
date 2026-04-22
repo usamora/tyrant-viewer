@@ -1,0 +1,218 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "镜头x"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "树1.2"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "树1.1"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "树1.2"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "镜头y"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "树1.1"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "树1.2"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "树1.1"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "树1.2"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "树1.1"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "树1.2"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "树1.1"
+    },
+    {
+      "Id": "ParamAll",
+      "GroupId": "",
+      "Name": "all"
+    },
+    {
+      "Id": "Param_Angle_Rotation11",
+      "GroupId": "",
+      "Name": "[0]带子3"
+    },
+    {
+      "Id": "Param_Angle_Rotation12",
+      "GroupId": "",
+      "Name": "[1]带子3"
+    },
+    {
+      "Id": "Param_Angle_Rotation13",
+      "GroupId": "",
+      "Name": "[2]带子3"
+    },
+    {
+      "Id": "Param_Angle_Rotation15",
+      "GroupId": "",
+      "Name": "[0]带子4"
+    },
+    {
+      "Id": "Param_Angle_Rotation16",
+      "GroupId": "",
+      "Name": "[1]带子4"
+    },
+    {
+      "Id": "Param_Angle_Rotation18",
+      "GroupId": "",
+      "Name": "[0]蝴蝶结1"
+    },
+    {
+      "Id": "Param_Angle_Rotation19",
+      "GroupId": "",
+      "Name": "[1]蝴蝶结1"
+    },
+    {
+      "Id": "Param_Angle_Rotation2",
+      "GroupId": "",
+      "Name": "[0]带子1"
+    },
+    {
+      "Id": "Param_Angle_Rotation21",
+      "GroupId": "",
+      "Name": "[0]蝴蝶结2"
+    },
+    {
+      "Id": "Param_Angle_Rotation22",
+      "GroupId": "",
+      "Name": "[1]蝴蝶结2"
+    },
+    {
+      "Id": "Param_Angle_Rotation24",
+      "GroupId": "",
+      "Name": "[0]蝴蝶结3"
+    },
+    {
+      "Id": "Param_Angle_Rotation25",
+      "GroupId": "",
+      "Name": "[1]蝴蝶结3"
+    },
+    {
+      "Id": "Param_Angle_Rotation26",
+      "GroupId": "",
+      "Name": "[2]蝴蝶结3"
+    },
+    {
+      "Id": "Param_Angle_Rotation28",
+      "GroupId": "",
+      "Name": "[0]蝴蝶结4"
+    },
+    {
+      "Id": "Param_Angle_Rotation29",
+      "GroupId": "",
+      "Name": "[1]蝴蝶结4"
+    },
+    {
+      "Id": "Param_Angle_Rotation3",
+      "GroupId": "",
+      "Name": "[1]带子1"
+    },
+    {
+      "Id": "Param_Angle_Rotation30",
+      "GroupId": "",
+      "Name": "[2]蝴蝶结4"
+    },
+    {
+      "Id": "Param_Angle_Rotation4",
+      "GroupId": "",
+      "Name": "[2]带子1"
+    },
+    {
+      "Id": "Param_Angle_Rotation7",
+      "GroupId": "",
+      "Name": "[0]带子2"
+    },
+    {
+      "Id": "Param_Angle_Rotation8",
+      "GroupId": "",
+      "Name": "[1]带子2"
+    },
+    {
+      "Id": "Param_Angle_Rotation9",
+      "GroupId": "",
+      "Name": "[2]带子2"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "Part",
+      "Name": "树"
+    },
+    {
+      "Id": "tree_11_Skinning",
+      "Name": "tree_11(蒙皮)"
+    },
+    {
+      "Id": "tree_12_Skinning",
+      "Name": "tree_12(蒙皮)"
+    },
+    {
+      "Id": "tree_13_Skinning",
+      "Name": "tree_13(蒙皮)"
+    },
+    {
+      "Id": "tree_14_Skinning",
+      "Name": "tree_14(蒙皮)"
+    },
+    {
+      "Id": "tree_16_Skinning",
+      "Name": "tree_16(蒙皮)"
+    },
+    {
+      "Id": "tree_18_Skinning",
+      "Name": "tree_18(蒙皮)"
+    },
+    {
+      "Id": "tree_4_Skinning",
+      "Name": "tree_4(蒙皮)"
+    },
+    {
+      "Id": "tree_5_Skinning",
+      "Name": "tree_5(蒙皮)"
+    },
+    {
+      "Id": "tree_9_Skinning",
+      "Name": "tree_9(蒙皮)"
+    }
+  ]
+}

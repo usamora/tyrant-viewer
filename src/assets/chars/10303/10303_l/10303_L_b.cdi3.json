@@ -1,0 +1,1054 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param26",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "Param27",
+      "GroupId": "",
+      "Name": "耳朵"
+    },
+    {
+      "Id": "Param28",
+      "GroupId": "",
+      "Name": "尾巴"
+    },
+    {
+      "Id": "Param38",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "Param39",
+      "GroupId": "",
+      "Name": "耳多"
+    },
+    {
+      "Id": "Param40",
+      "GroupId": "",
+      "Name": "尾巴"
+    },
+    {
+      "Id": "Param41",
+      "GroupId": "",
+      "Name": "头x"
+    },
+    {
+      "Id": "Param42",
+      "GroupId": "",
+      "Name": "头y"
+    },
+    {
+      "Id": "Param50",
+      "GroupId": "",
+      "Name": "头旋转"
+    },
+    {
+      "Id": "Param51",
+      "GroupId": "",
+      "Name": "眼睛开闭"
+    },
+    {
+      "Id": "Param52",
+      "GroupId": "",
+      "Name": "高光"
+    },
+    {
+      "Id": "Param53",
+      "GroupId": "",
+      "Name": "嘴"
+    },
+    {
+      "Id": "Param54",
+      "GroupId": "",
+      "Name": "左手"
+    },
+    {
+      "Id": "Param55",
+      "GroupId": "",
+      "Name": "耳朵"
+    },
+    {
+      "Id": "Param56",
+      "GroupId": "",
+      "Name": "尾巴"
+    },
+    {
+      "Id": "Param57",
+      "GroupId": "",
+      "Name": "身体"
+    },
+    {
+      "Id": "Param58",
+      "GroupId": "",
+      "Name": "脸"
+    },
+    {
+      "Id": "Param59",
+      "GroupId": "",
+      "Name": "脸"
+    },
+    {
+      "Id": "Param60",
+      "GroupId": "",
+      "Name": "腿"
+    },
+    {
+      "Id": "Param61",
+      "GroupId": "",
+      "Name": "手"
+    },
+    {
+      "Id": "Param62",
+      "GroupId": "",
+      "Name": "鼻子"
+    },
+    {
+      "Id": "Param63",
+      "GroupId": "",
+      "Name": "灯笼摇"
+    },
+    {
+      "Id": "Param64",
+      "GroupId": "",
+      "Name": "灯笼1"
+    },
+    {
+      "Id": "Param65",
+      "GroupId": "",
+      "Name": "灯笼2"
+    },
+    {
+      "Id": "Param66",
+      "GroupId": "",
+      "Name": "灯笼3"
+    },
+    {
+      "Id": "Param67",
+      "GroupId": "",
+      "Name": "飘带摇"
+    },
+    {
+      "Id": "Param68",
+      "GroupId": "",
+      "Name": "白"
+    },
+    {
+      "Id": "Param69",
+      "GroupId": "",
+      "Name": "背景消失"
+    },
+    {
+      "Id": "ParamAll",
+      "GroupId": "",
+      "Name": "全部摇"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "Param_Angle_Rotation438",
+      "GroupId": "",
+      "Name": "[0]尾巴1"
+    },
+    {
+      "Id": "Param_Angle_Rotation439",
+      "GroupId": "",
+      "Name": "[1]尾巴1"
+    },
+    {
+      "Id": "Param_Angle_Rotation440",
+      "GroupId": "",
+      "Name": "[2]尾巴1"
+    },
+    {
+      "Id": "Param_Angle_Rotation441",
+      "GroupId": "",
+      "Name": "[3]尾巴1"
+    },
+    {
+      "Id": "Param_Angle_Rotation442",
+      "GroupId": "",
+      "Name": "[4]尾巴1"
+    },
+    {
+      "Id": "Param_Angle_Rotation443",
+      "GroupId": "",
+      "Name": "[5]尾巴1"
+    },
+    {
+      "Id": "Param_Angle_Rotation444",
+      "GroupId": "",
+      "Name": "[6]尾巴1"
+    },
+    {
+      "Id": "Param_Angle_Rotation446",
+      "GroupId": "",
+      "Name": "[0]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation447",
+      "GroupId": "",
+      "Name": "[1]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation448",
+      "GroupId": "",
+      "Name": "[2]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation449",
+      "GroupId": "",
+      "Name": "[3]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation450",
+      "GroupId": "",
+      "Name": "[4]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation451",
+      "GroupId": "",
+      "Name": "[5]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation452",
+      "GroupId": "",
+      "Name": "[6]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation453",
+      "GroupId": "",
+      "Name": "[7]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation454",
+      "GroupId": "",
+      "Name": "[8]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation456",
+      "GroupId": "",
+      "Name": "[0]尾巴3"
+    },
+    {
+      "Id": "Param_Angle_Rotation457",
+      "GroupId": "",
+      "Name": "[1]尾巴3"
+    },
+    {
+      "Id": "Param_Angle_Rotation458",
+      "GroupId": "",
+      "Name": "[2]尾巴3"
+    },
+    {
+      "Id": "Param_Angle_Rotation459",
+      "GroupId": "",
+      "Name": "[3]尾巴3"
+    },
+    {
+      "Id": "Param_Angle_Rotation460",
+      "GroupId": "",
+      "Name": "[4]尾巴3"
+    },
+    {
+      "Id": "Param_Angle_Rotation461",
+      "GroupId": "",
+      "Name": "[5]尾巴3"
+    },
+    {
+      "Id": "Param_Angle_Rotation462",
+      "GroupId": "",
+      "Name": "[6]尾巴3"
+    },
+    {
+      "Id": "Param_Angle_Rotation464",
+      "GroupId": "",
+      "Name": "[0]灯笼1"
+    },
+    {
+      "Id": "Param_Angle_Rotation465",
+      "GroupId": "",
+      "Name": "[1]灯笼1"
+    },
+    {
+      "Id": "Param_Angle_Rotation466",
+      "GroupId": "",
+      "Name": "[2]灯笼1"
+    },
+    {
+      "Id": "Param_Angle_Rotation468",
+      "GroupId": "",
+      "Name": "[0]灯笼中国结1"
+    },
+    {
+      "Id": "Param_Angle_Rotation469",
+      "GroupId": "",
+      "Name": "[1]灯笼中国结1"
+    },
+    {
+      "Id": "Param_Angle_Rotation470",
+      "GroupId": "",
+      "Name": "[2]灯笼中国结1"
+    },
+    {
+      "Id": "Param_Angle_Rotation471",
+      "GroupId": "",
+      "Name": "[3]灯笼1"
+    },
+    {
+      "Id": "Param_Angle_Rotation472",
+      "GroupId": "",
+      "Name": "[4]灯笼1"
+    },
+    {
+      "Id": "Param_Angle_Rotation474",
+      "GroupId": "",
+      "Name": "[0]灯笼2"
+    },
+    {
+      "Id": "Param_Angle_Rotation475",
+      "GroupId": "",
+      "Name": "[1]灯笼2"
+    },
+    {
+      "Id": "Param_Angle_Rotation476",
+      "GroupId": "",
+      "Name": "[2]灯笼2"
+    },
+    {
+      "Id": "Param_Angle_Rotation477",
+      "GroupId": "",
+      "Name": "[3]灯笼2"
+    },
+    {
+      "Id": "Param_Angle_Rotation479",
+      "GroupId": "",
+      "Name": "[0]灯笼中国结2"
+    },
+    {
+      "Id": "Param_Angle_Rotation480",
+      "GroupId": "",
+      "Name": "[1]灯笼中国结2"
+    },
+    {
+      "Id": "Param_Angle_Rotation481",
+      "GroupId": "",
+      "Name": "[2]灯笼中国结2"
+    },
+    {
+      "Id": "Param_Angle_Rotation483",
+      "GroupId": "",
+      "Name": "[0]灯笼3"
+    },
+    {
+      "Id": "Param_Angle_Rotation484",
+      "GroupId": "",
+      "Name": "[1]灯笼3"
+    },
+    {
+      "Id": "Param_Angle_Rotation485",
+      "GroupId": "",
+      "Name": "[2]灯笼3"
+    },
+    {
+      "Id": "Param_Angle_Rotation486",
+      "GroupId": "",
+      "Name": "[3]灯笼3"
+    },
+    {
+      "Id": "Param_Angle_Rotation488",
+      "GroupId": "",
+      "Name": "[0]灯笼中国结3"
+    },
+    {
+      "Id": "Param_Angle_Rotation489",
+      "GroupId": "",
+      "Name": "[1]灯笼中国结3"
+    },
+    {
+      "Id": "Param_Angle_Rotation490",
+      "GroupId": "",
+      "Name": "[2]灯笼中国结3"
+    },
+    {
+      "Id": "Param_Angle_Rotation492",
+      "GroupId": "",
+      "Name": "[0]植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation493",
+      "GroupId": "",
+      "Name": "[1]植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation494",
+      "GroupId": "",
+      "Name": "[2]植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation496",
+      "GroupId": "",
+      "Name": "[3]植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation497",
+      "GroupId": "",
+      "Name": "[4]植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation498",
+      "GroupId": "",
+      "Name": "[5]植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation500",
+      "GroupId": "",
+      "Name": "[0]植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation501",
+      "GroupId": "",
+      "Name": "[1]植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation502",
+      "GroupId": "",
+      "Name": "[2]植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation503",
+      "GroupId": "",
+      "Name": "[3]植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation504",
+      "GroupId": "",
+      "Name": "[4]植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation505",
+      "GroupId": "",
+      "Name": "[5]植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation507",
+      "GroupId": "",
+      "Name": "[0]植物3"
+    },
+    {
+      "Id": "Param_Angle_Rotation508",
+      "GroupId": "",
+      "Name": "[1]植物3"
+    },
+    {
+      "Id": "Param_Angle_Rotation509",
+      "GroupId": "",
+      "Name": "[2]植物3"
+    },
+    {
+      "Id": "Param_Angle_Rotation511",
+      "GroupId": "",
+      "Name": "[0]植物4"
+    },
+    {
+      "Id": "Param_Angle_Rotation512",
+      "GroupId": "",
+      "Name": "[1]植物4"
+    },
+    {
+      "Id": "Param_Angle_Rotation513",
+      "GroupId": "",
+      "Name": "[2]植物4"
+    },
+    {
+      "Id": "Param_Angle_Rotation514",
+      "GroupId": "",
+      "Name": "[3]植物4"
+    },
+    {
+      "Id": "Param_Angle_Rotation515",
+      "GroupId": "",
+      "Name": "[4]植物4"
+    },
+    {
+      "Id": "Param_Angle_Rotation516",
+      "GroupId": "",
+      "Name": "[5]植物4"
+    },
+    {
+      "Id": "Param_Angle_Rotation518",
+      "GroupId": "",
+      "Name": "[0]植物5"
+    },
+    {
+      "Id": "Param_Angle_Rotation519",
+      "GroupId": "",
+      "Name": "[1]植物5"
+    },
+    {
+      "Id": "Param_Angle_Rotation520",
+      "GroupId": "",
+      "Name": "[2]植物5"
+    },
+    {
+      "Id": "Param_Angle_Rotation521",
+      "GroupId": "",
+      "Name": "[3]植物5"
+    },
+    {
+      "Id": "Param_Angle_Rotation523",
+      "GroupId": "",
+      "Name": "[0]右植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation524",
+      "GroupId": "",
+      "Name": "[1]右植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation525",
+      "GroupId": "",
+      "Name": "[2]右植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation526",
+      "GroupId": "",
+      "Name": "[3]右植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation527",
+      "GroupId": "",
+      "Name": "[4]右植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation528",
+      "GroupId": "",
+      "Name": "[5]右植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation529",
+      "GroupId": "",
+      "Name": "[6]右植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation530",
+      "GroupId": "",
+      "Name": "[7]右植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation531",
+      "GroupId": "",
+      "Name": "[8]右植物1"
+    },
+    {
+      "Id": "Param_Angle_Rotation533",
+      "GroupId": "",
+      "Name": "[0]右植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation534",
+      "GroupId": "",
+      "Name": "[1]右植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation535",
+      "GroupId": "",
+      "Name": "[2]右植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation536",
+      "GroupId": "",
+      "Name": "[3]右植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation537",
+      "GroupId": "",
+      "Name": "[4]右植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation538",
+      "GroupId": "",
+      "Name": "[5]右植物2"
+    },
+    {
+      "Id": "Param_Angle_Rotation540",
+      "GroupId": "",
+      "Name": "[0]右植物3"
+    },
+    {
+      "Id": "Param_Angle_Rotation541",
+      "GroupId": "",
+      "Name": "[1]右植物3"
+    },
+    {
+      "Id": "Param_Angle_Rotation542",
+      "GroupId": "",
+      "Name": "[2]右植物3"
+    },
+    {
+      "Id": "Param_Angle_Rotation543",
+      "GroupId": "",
+      "Name": "[3]右植物3"
+    },
+    {
+      "Id": "Param_Angle_Rotation544",
+      "GroupId": "",
+      "Name": "[4]右植物3"
+    },
+    {
+      "Id": "Param_Angle_Rotation545",
+      "GroupId": "",
+      "Name": "[5]右植物3"
+    },
+    {
+      "Id": "Param_Angle_Rotation546",
+      "GroupId": "",
+      "Name": "[6]右植物3"
+    },
+    {
+      "Id": "Param_Angle_Rotation548",
+      "GroupId": "",
+      "Name": "[0]右植物5"
+    },
+    {
+      "Id": "Param_Angle_Rotation549",
+      "GroupId": "",
+      "Name": "[1]右植物5"
+    },
+    {
+      "Id": "Param_Angle_Rotation550",
+      "GroupId": "",
+      "Name": "[2]右植物5"
+    },
+    {
+      "Id": "Param_Angle_Rotation551",
+      "GroupId": "",
+      "Name": "[3]右植物5"
+    },
+    {
+      "Id": "Param_Angle_Rotation552",
+      "GroupId": "",
+      "Name": "[4]右植物5"
+    },
+    {
+      "Id": "Param_Angle_Rotation554",
+      "GroupId": "",
+      "Name": "[0]右植物4"
+    },
+    {
+      "Id": "Param_Angle_Rotation555",
+      "GroupId": "",
+      "Name": "[1]右植物4"
+    },
+    {
+      "Id": "Param_Angle_Rotation556",
+      "GroupId": "",
+      "Name": "[2]右植物4"
+    },
+    {
+      "Id": "Param_Angle_Rotation557",
+      "GroupId": "",
+      "Name": "[3]右植物4"
+    },
+    {
+      "Id": "Param_Angle_Rotation559",
+      "GroupId": "",
+      "Name": "[0]右植物6"
+    },
+    {
+      "Id": "Param_Angle_Rotation560",
+      "GroupId": "",
+      "Name": "[1]右植物6"
+    },
+    {
+      "Id": "Param_Angle_Rotation561",
+      "GroupId": "",
+      "Name": "[2]右植物6"
+    },
+    {
+      "Id": "Param_Angle_Rotation562",
+      "GroupId": "",
+      "Name": "[3]右植物6"
+    },
+    {
+      "Id": "Param_Angle_Rotation563",
+      "GroupId": "",
+      "Name": "[4]右植物6"
+    },
+    {
+      "Id": "Param_Angle_Rotation565",
+      "GroupId": "",
+      "Name": "[0]飘带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation566",
+      "GroupId": "",
+      "Name": "[1]飘带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation567",
+      "GroupId": "",
+      "Name": "[2]飘带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation568",
+      "GroupId": "",
+      "Name": "[3]飘带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation569",
+      "GroupId": "",
+      "Name": "[4]飘带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation570",
+      "GroupId": "",
+      "Name": "[5]飘带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation572",
+      "GroupId": "",
+      "Name": "[0]飘带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation573",
+      "GroupId": "",
+      "Name": "[1]飘带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation574",
+      "GroupId": "",
+      "Name": "[2]飘带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation575",
+      "GroupId": "",
+      "Name": "[3]飘带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation576",
+      "GroupId": "",
+      "Name": "[4]飘带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation577",
+      "GroupId": "",
+      "Name": "[5]飘带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation579",
+      "GroupId": "",
+      "Name": "[0]飘带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation580",
+      "GroupId": "",
+      "Name": "[1]飘带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation581",
+      "GroupId": "",
+      "Name": "[2]飘带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation582",
+      "GroupId": "",
+      "Name": "[3]飘带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation583",
+      "GroupId": "",
+      "Name": "[4]飘带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation584",
+      "GroupId": "",
+      "Name": "[5]飘带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation585",
+      "GroupId": "",
+      "Name": "[6]飘带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation586",
+      "GroupId": "",
+      "Name": "[7]飘带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation588",
+      "GroupId": "",
+      "Name": "[0]飘带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation589",
+      "GroupId": "",
+      "Name": "[1]飘带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation590",
+      "GroupId": "",
+      "Name": "[2]飘带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation591",
+      "GroupId": "",
+      "Name": "[3]飘带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation592",
+      "GroupId": "",
+      "Name": "[4]飘带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation593",
+      "GroupId": "",
+      "Name": "[5]飘带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation594",
+      "GroupId": "",
+      "Name": "[6]飘带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation596",
+      "GroupId": "",
+      "Name": "[0]飘带5"
+    },
+    {
+      "Id": "Param_Angle_Rotation597",
+      "GroupId": "",
+      "Name": "[1]飘带5"
+    },
+    {
+      "Id": "Param_Angle_Rotation598",
+      "GroupId": "",
+      "Name": "[2]飘带5"
+    },
+    {
+      "Id": "Param_Angle_Rotation599",
+      "GroupId": "",
+      "Name": "[3]飘带5"
+    },
+    {
+      "Id": "Param_Angle_Rotation600",
+      "GroupId": "",
+      "Name": "[4]飘带5"
+    },
+    {
+      "Id": "Param_Angle_Rotation602",
+      "GroupId": "",
+      "Name": "[0]飘带6"
+    },
+    {
+      "Id": "Param_Angle_Rotation603",
+      "GroupId": "",
+      "Name": "[1]飘带6"
+    },
+    {
+      "Id": "Param_Angle_Rotation604",
+      "GroupId": "",
+      "Name": "[2]飘带6"
+    },
+    {
+      "Id": "Param_Angle_Rotation605",
+      "GroupId": "",
+      "Name": "[3]飘带6"
+    },
+    {
+      "Id": "Param_Angle_Rotation606",
+      "GroupId": "",
+      "Name": "[4]飘带6"
+    },
+    {
+      "Id": "Param_Angle_Rotation607",
+      "GroupId": "",
+      "Name": "[5]飘带6"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "ArtMesh0_Skinning",
+      "Name": "tiger ear_1(蒙皮)"
+    },
+    {
+      "Id": "ArtMesh13_Skinning",
+      "Name": "tiger ear_3(蒙皮)"
+    },
+    {
+      "Id": "ArtMesh14_Skinning",
+      "Name": "tiger ear_4(蒙皮)"
+    },
+    {
+      "Id": "ArtMesh17_Skinning",
+      "Name": "tiger ear_5(蒙皮)"
+    },
+    {
+      "Id": "ArtMesh18_Skinning",
+      "Name": "tiger ear_5(蒙皮)"
+    },
+    {
+      "Id": "ArtMesh1_Skinning",
+      "Name": "tiger ear_2(蒙皮)"
+    },
+    {
+      "Id": "bj",
+      "Name": "bj"
+    },
+    {
+      "Id": "botany2_1_Skinning",
+      "Name": "botany2_1(蒙皮)"
+    },
+    {
+      "Id": "botany2_3_Skinning",
+      "Name": "botany2_3(蒙皮)"
+    },
+    {
+      "Id": "botany2_5_Skinning",
+      "Name": "botany2_5(蒙皮)"
+    },
+    {
+      "Id": "botany2_6_Skinning",
+      "Name": "botany2_6(蒙皮)"
+    },
+    {
+      "Id": "botany2_7_Skinning",
+      "Name": "botany2_7(蒙皮)"
+    },
+    {
+      "Id": "botany2_8_Skinning",
+      "Name": "botany2_8(蒙皮)"
+    },
+    {
+      "Id": "botany_1_Skinning",
+      "Name": "botany_1(蒙皮)"
+    },
+    {
+      "Id": "botany_2_Skinning",
+      "Name": "botany_2(蒙皮)"
+    },
+    {
+      "Id": "botany_3_Skinning",
+      "Name": "botany_3(蒙皮)"
+    },
+    {
+      "Id": "botany_4_Skinning",
+      "Name": "botany_4(蒙皮)"
+    },
+    {
+      "Id": "botany_5_Skinning",
+      "Name": "botany_5(蒙皮)"
+    },
+    {
+      "Id": "curtain_1_Skinning",
+      "Name": "curtain_1(蒙皮)"
+    },
+    {
+      "Id": "curtain_2_Skinning",
+      "Name": "curtain_2(蒙皮)"
+    },
+    {
+      "Id": "curtain_3_Skinning",
+      "Name": "curtain_3(蒙皮)"
+    },
+    {
+      "Id": "curtain_4_Skinning",
+      "Name": "curtain_4(蒙皮)"
+    },
+    {
+      "Id": "curtain_5_Skinning",
+      "Name": "curtain_5(蒙皮)"
+    },
+    {
+      "Id": "curtain_6_Skinning",
+      "Name": "curtain_6(蒙皮)"
+    },
+    {
+      "Id": "hu",
+      "Name": "hu"
+    },
+    {
+      "Id": "lantern_1_Skinning",
+      "Name": "lantern_1(蒙皮)"
+    },
+    {
+      "Id": "lantern_2_Skinning",
+      "Name": "lantern_2(蒙皮)"
+    },
+    {
+      "Id": "lantern_3_Skinning",
+      "Name": "lantern_3(蒙皮)"
+    },
+    {
+      "Id": "lantern_4_Skinning",
+      "Name": "lantern_4(蒙皮)"
+    },
+    {
+      "Id": "lantern_5_Skinning",
+      "Name": "lantern_5(蒙皮)"
+    },
+    {
+      "Id": "lantern_6_Skinning",
+      "Name": "lantern_6(蒙皮)"
+    },
+    {
+      "Id": "leg_Skinning",
+      "Name": "leg(蒙皮)"
+    },
+    {
+      "Id": "L_hend_1_Skinning",
+      "Name": "L_hend_1(蒙皮)"
+    },
+    {
+      "Id": "L_hend_2_Skinning",
+      "Name": "L_hend_2(蒙皮)"
+    },
+    {
+      "Id": "Part",
+      "Name": "框"
+    },
+    {
+      "Id": "Part21",
+      "Name": "灯笼"
+    },
+    {
+      "Id": "Part4",
+      "Name": "1"
+    },
+    {
+      "Id": "Part5",
+      "Name": "2"
+    },
+    {
+      "Id": "Part6",
+      "Name": "3"
+    },
+    {
+      "Id": "R_hand2_Skinning",
+      "Name": "R_hand(蒙皮)"
+    },
+    {
+      "Id": "R_hand_Skinning",
+      "Name": "R_hand(蒙皮)"
+    },
+    {
+      "Id": "tail_2_Skinning",
+      "Name": "tail_2(蒙皮)"
+    },
+    {
+      "Id": "tail_3_Skinning",
+      "Name": "tail_3(蒙皮)"
+    },
+    {
+      "Id": "tail_Skinning",
+      "Name": "tail(蒙皮)"
+    }
+  ]
+}

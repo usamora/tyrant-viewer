@@ -1,0 +1,222 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamAll1",
+      "GroupId": "",
+      "Name": "全部摇1"
+    },
+    {
+      "Id": "ParamAll2",
+      "GroupId": "",
+      "Name": "全部摇2"
+    },
+    {
+      "Id": "ParamAll3",
+      "GroupId": "",
+      "Name": "全部摇3"
+    },
+    {
+      "Id": "ParamAll4",
+      "GroupId": "",
+      "Name": "全部摇4"
+    },
+    {
+      "Id": "ParamAll5",
+      "GroupId": "",
+      "Name": "全部摇5"
+    },
+    {
+      "Id": "ParamAll6",
+      "GroupId": "",
+      "Name": "全部摇6"
+    },
+    {
+      "Id": "Param_Angle_Rotation17",
+      "GroupId": "",
+      "Name": "[0]幔帐5"
+    },
+    {
+      "Id": "Param_Angle_Rotation18",
+      "GroupId": "",
+      "Name": "[1]幔帐5"
+    },
+    {
+      "Id": "Param_Angle_Rotation19",
+      "GroupId": "",
+      "Name": "[2]幔帐5"
+    },
+    {
+      "Id": "Param_Angle_Rotation20",
+      "GroupId": "",
+      "Name": "[3]幔帐5"
+    },
+    {
+      "Id": "Param_Angle_Rotation21",
+      "GroupId": "",
+      "Name": "[4]幔帐5"
+    },
+    {
+      "Id": "Param_Angle_Rotation23",
+      "GroupId": "",
+      "Name": "[0]幔帐3"
+    },
+    {
+      "Id": "Param_Angle_Rotation24",
+      "GroupId": "",
+      "Name": "[1]幔帐3"
+    },
+    {
+      "Id": "Param_Angle_Rotation25",
+      "GroupId": "",
+      "Name": "[2]幔帐3"
+    },
+    {
+      "Id": "Param_Angle_Rotation26",
+      "GroupId": "",
+      "Name": "[3]幔帐3"
+    },
+    {
+      "Id": "Param_Angle_Rotation28",
+      "GroupId": "",
+      "Name": "[0]幔帐4"
+    },
+    {
+      "Id": "Param_Angle_Rotation29",
+      "GroupId": "",
+      "Name": "[1]幔帐4"
+    },
+    {
+      "Id": "Param_Angle_Rotation30",
+      "GroupId": "",
+      "Name": "[2]幔帐4"
+    },
+    {
+      "Id": "Param_Angle_Rotation31",
+      "GroupId": "",
+      "Name": "[3]幔帐4"
+    },
+    {
+      "Id": "Param_Angle_Rotation33",
+      "GroupId": "",
+      "Name": "[0]幔帐1"
+    },
+    {
+      "Id": "Param_Angle_Rotation34",
+      "GroupId": "",
+      "Name": "[1]幔帐1"
+    },
+    {
+      "Id": "Param_Angle_Rotation35",
+      "GroupId": "",
+      "Name": "[2]幔帐1"
+    },
+    {
+      "Id": "Param_Angle_Rotation36",
+      "GroupId": "",
+      "Name": "[3]幔帐1"
+    },
+    {
+      "Id": "Param_Angle_Rotation37",
+      "GroupId": "",
+      "Name": "[4]幔帐1"
+    },
+    {
+      "Id": "Param_Angle_Rotation38",
+      "GroupId": "",
+      "Name": "[5]幔帐1"
+    },
+    {
+      "Id": "Param_Angle_Rotation39",
+      "GroupId": "",
+      "Name": "[6]幔帐1"
+    },
+    {
+      "Id": "Param_Angle_Rotation40",
+      "GroupId": "",
+      "Name": "[7]幔帐1"
+    },
+    {
+      "Id": "Param_Angle_Rotation42",
+      "GroupId": "",
+      "Name": "[0]幔帐2"
+    },
+    {
+      "Id": "Param_Angle_Rotation43",
+      "GroupId": "",
+      "Name": "[1]幔帐2"
+    },
+    {
+      "Id": "Param_Angle_Rotation44",
+      "GroupId": "",
+      "Name": "[2]幔帐2"
+    },
+    {
+      "Id": "Param_Angle_Rotation45",
+      "GroupId": "",
+      "Name": "[3]幔帐2"
+    },
+    {
+      "Id": "Param_Angle_Rotation46",
+      "GroupId": "",
+      "Name": "[4]幔帐2"
+    },
+    {
+      "Id": "Param_Angle_Rotation47",
+      "GroupId": "",
+      "Name": "[5]幔帐2"
+    },
+    {
+      "Id": "Param_Angle_Rotation48",
+      "GroupId": "",
+      "Name": "[6]幔帐2"
+    },
+    {
+      "Id": "Param_Angle_Rotation49",
+      "GroupId": "",
+      "Name": "[7]幔帐2"
+    },
+    {
+      "Id": "Param_Angle_Rotation50",
+      "GroupId": "",
+      "Name": "[1]幔帐6"
+    },
+    {
+      "Id": "Param_Angle_Rotation51",
+      "GroupId": "",
+      "Name": "[2]幔帐6"
+    },
+    {
+      "Id": "Param_Angle_Rotation52",
+      "GroupId": "",
+      "Name": "[3]幔帐6"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "curtain_1_Skinning",
+      "Name": "curtain_1(蒙皮)"
+    },
+    {
+      "Id": "curtain_2_Skinning",
+      "Name": "curtain_2(蒙皮)"
+    },
+    {
+      "Id": "curtain_3_Skinning",
+      "Name": "curtain_3(蒙皮)"
+    },
+    {
+      "Id": "curtain_4_Skinning",
+      "Name": "curtain_4(蒙皮)"
+    },
+    {
+      "Id": "curtain_5_Skinning",
+      "Name": "curtain_5(蒙皮)"
+    },
+    {
+      "Id": "qiandushi_b",
+      "Name": "qiandushi_b"
+    }
+  ]
+}
