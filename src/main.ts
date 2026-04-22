@@ -4,7 +4,9 @@ import {
   enableDrag, 
   enableZoom, 
   handleResize 
-} from './controls/index'
+} from './controls/index';
+
+import { fitModelToScreen } from './events/index';
 
 document.addEventListener('DOMContentLoaded', async () => {
   const app = new Application()
@@ -27,13 +29,16 @@ document.addEventListener('DOMContentLoaded', async () => {
   //   memorySizeMB: 32
   // })
 
-  const model = await Live2DModel.from('src/assets/chars/10303/10303_l/10303_L_b.model3.json')
+  const model = await Live2DModel.from('src/assets/chars/10301/10301_l/10301_L.model3.json')
   model.anchor.set(0.5)
   model.position.set(app.screen.width / 2, app.screen.height / 2)
 
   enableDrag(model);
   enableZoom(model);
   handleResize(app, model);
+
+  fitModelToScreen(app, model);
+
   app.stage.addChild(model);
 });
 

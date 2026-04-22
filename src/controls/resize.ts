@@ -1,4 +1,7 @@
-export function handleResize(app: any, model: any) {
+import type { Container, Application } from "pixi.js";
+type Live2DModel = Container;
+
+export function handleResize(app: Application, model: Live2DModel) {
   window.addEventListener("resize", () => {
     const canvas = document.querySelector("#main-canvas") as HTMLElement;
 
