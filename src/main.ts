@@ -16,7 +16,7 @@ interface ApplicationExtended extends Application {
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
-  const app = new Application()
+  const app = new Application();
   await app.init({
     resizeTo: document.getElementById('main-canvas') as HTMLElement,
     preference: 'webgl',

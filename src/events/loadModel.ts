@@ -14,7 +14,7 @@ export async function loadModel(
     const currentModel = getModel();
     
     camera.removeChild(currentModel);
-    currentModel.destroy();
+    currentModel.destroy({ children: true });
 
     await new Promise(r => requestAnimationFrame(r));
 
@@ -22,12 +22,13 @@ export async function loadModel(
 
     camera.addChild(model);
 
-    //set model position back
-    model.anchor.set(0.5, 0.5);
-    const width = app.renderer.width;
-    const height = app.renderer.height;
-    model.x = width / 2;
-    model.y = height / 2;
+    //reset model and camera position on canvas
+    model.position.set(0, 0);
+    model.anchor?.set?.(0.5);
+
+    camera.x = 0;
+    camera.y = 0;
+    camera.scale.set(1);
 
     setModel(model);
 
