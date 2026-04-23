@@ -1,0 +1,935 @@
+[
+  {
+    "id": "10301",
+    "name": "Amber",
+    "variants": [
+      {
+        "name": "10301_l",
+        "label": "Default",
+        "path": "/assets/chars/10301/10301_l/10301_L.model3.json"
+      },
+      {
+        "name": "10301_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/10301/10301_lf/10301_F.model3.json"
+      },
+      {
+        "name": "10301_lt",
+        "label": "Talent",
+        "path": "/assets/chars/10301/10301_lt/10301_T.model3.json"
+      },
+      {
+        "name": "10302_l",
+        "label": "Awakened",
+        "path": "/assets/chars/10302/10302_l/10302_L.model3.json"
+      },
+      {
+        "name": "10303_l",
+        "label": "Unknow",
+        "path": "/assets/chars/10303/10303_l/10303_L_a.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "10701",
+    "name": "Tilia",
+    "variants": [
+      {
+        "name": "10701_l",
+        "label": "Default",
+        "path": "/assets/chars/10701/10701_l/10701_L.model3.json"
+      },
+      {
+        "name": "10701_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/10701/10701_lf/10701_F.model3.json"
+      },
+      {
+        "name": "10701_lt",
+        "label": "Talent",
+        "path": "/assets/chars/10701/10701_lt/10701_T.model3.json"
+      },
+      {
+        "name": "10702_l",
+        "label": "Awakened",
+        "path": "/assets/chars/10702/10702_l/10702_L.model3.json"
+      },
+      {
+        "name": "10703_l",
+        "label": "Unknow",
+        "path": "/assets/chars/10703/10703_l/10703_L_a.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "10801",
+    "name": "Kasimira",
+    "variants": [
+      {
+        "name": "10801_l",
+        "label": "Default",
+        "path": "/assets/chars/10801/10801_l/10801_L.model3.json"
+      },
+      {
+        "name": "10801_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/10801/10801_lf/10801_F.model3.json"
+      },
+      {
+        "name": "10801_lt",
+        "label": "Talent",
+        "path": "/assets/chars/10801/10801_lt/10801_T.model3.json"
+      },
+      {
+        "name": "10802_l",
+        "label": "Awakened",
+        "path": "/assets/chars/10802/10802_l/10802_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "11001",
+    "name": "Firenze",
+    "variants": [
+      {
+        "name": "11001_l",
+        "label": "Default",
+        "path": "/assets/chars/11001/11001_l/11001_L.model3.json"
+      },
+      {
+        "name": "11001_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/11001/11001_lf/11001_F_a.model3.json"
+      },
+      {
+        "name": "11001_lt",
+        "label": "Talent",
+        "path": "/assets/chars/11001/11001_lt/11001_T.model3.json"
+      },
+      {
+        "name": "11002_l",
+        "label": "Awakened",
+        "path": "/assets/chars/11002/11002_l/11002_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "11101",
+    "name": "Iris",
+    "variants": [
+      {
+        "name": "11101_l",
+        "label": "Default",
+        "path": "/assets/chars/11101/11101_l/11101_L.model3.json"
+      },
+      {
+        "name": "11101_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/11101/11101_lf/11101_F.model3.json"
+      },
+      {
+        "name": "11101_lt",
+        "label": "Talent",
+        "path": "/assets/chars/11101/11101_lt/11101_T.model3.json"
+      },
+      {
+        "name": "11102_l",
+        "label": "Awakened",
+        "path": "/assets/chars/11102/11102_l/11102_L.model3.json"
+      },
+      {
+        "name": "11103_l",
+        "label": "Unknow",
+        "path": "/assets/chars/11103/11103_l/11103_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "11201",
+    "name": "Noya",
+    "variants": [
+      {
+        "name": "11201_l",
+        "label": "Default",
+        "path": "/assets/chars/11201/11201_l/11201_L.model3.json"
+      },
+      {
+        "name": "11201_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/11201/11201_lf/11201_F.model3.json"
+      },
+      {
+        "name": "11201_lt",
+        "label": "Talent",
+        "path": "/assets/chars/11201/11201_lt/11201_T.model3.json"
+      },
+      {
+        "name": "11202_l",
+        "label": "Awakened",
+        "path": "/assets/chars/11202/11202_l/11202_L.model3.json"
+      },
+      {
+        "name": "11203_l",
+        "label": "Unknow",
+        "path": "/assets/chars/11203/11203_l/11203_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "11301",
+    "name": "Shimiao",
+    "variants": [
+      {
+        "name": "11301_l",
+        "label": "Default",
+        "path": "/assets/chars/11301/11301_l/11301_L.model3.json"
+      },
+      {
+        "name": "11301_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/11301/11301_lf/11301_F.model3.json"
+      },
+      {
+        "name": "11301_lt",
+        "label": "Talent",
+        "path": "/assets/chars/11301/11301_lt/11301_T.model3.json"
+      },
+      {
+        "name": "11302_l",
+        "label": "Awakened",
+        "path": "/assets/chars/11302/11302_l/11302_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "11601",
+    "name": "Ridge",
+    "variants": [
+      {
+        "name": "11601_l",
+        "label": "Default",
+        "path": "/assets/chars/11601/11601_l/11601_L.model3.json"
+      },
+      {
+        "name": "11601_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/11601/11601_lf/11601_F.model3.json"
+      },
+      {
+        "name": "11601_lt",
+        "label": "Talent",
+        "path": "/assets/chars/11601/11601_lt/11601_T.model3.json"
+      },
+      {
+        "name": "11602_l",
+        "label": "Awakened",
+        "path": "/assets/chars/11602/11602_l/11602_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "11701",
+    "name": "Jinglin",
+    "variants": [
+      {
+        "name": "11701_l",
+        "label": "Default",
+        "path": "/assets/chars/11701/11701_l/11701_L.model3.json"
+      },
+      {
+        "name": "11701_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/11701/11701_lf/11701_F.model3.json"
+      },
+      {
+        "name": "11701_lt",
+        "label": "Talent",
+        "path": "/assets/chars/11701/11701_lt/11701_T.model3.json"
+      },
+      {
+        "name": "11702_l",
+        "label": "Awakened",
+        "path": "/assets/chars/11702/11702_l/11702_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "11801",
+    "name": "Coronis",
+    "variants": [
+      {
+        "name": "11801_l",
+        "label": "Default",
+        "path": "/assets/chars/11801/11801_l/11801_L.model3.json"
+      },
+      {
+        "name": "11801_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/11801/11801_lf/11801_F.model3.json"
+      },
+      {
+        "name": "11801_lt",
+        "label": "Talent",
+        "path": "/assets/chars/11801/11801_lt/11801_T.model3.json"
+      },
+      {
+        "name": "11802_l",
+        "label": "Awakened",
+        "path": "/assets/chars/11802/11802_l/11802_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "11901",
+    "name": "Nanoha",
+    "variants": [
+      {
+        "name": "11901_l",
+        "label": "Default",
+        "path": "/assets/chars/11901/11901_l/11901_L.model3.json"
+      },
+      {
+        "name": "11901_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/11901/11901_lf/11901_F_a.model3.json"
+      },
+      {
+        "name": "11901_lt",
+        "label": "Talent",
+        "path": "/assets/chars/11901/11901_lt/11901_T.model3.json"
+      },
+      {
+        "name": "11902_l",
+        "label": "Awakened",
+        "path": "/assets/chars/11902/11902_l/11902_L.model3.json"
+      },
+      {
+        "name": "11903_l",
+        "label": "Unknow",
+        "path": "/assets/chars/11903/11903_l/11903_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "12001",
+    "name": "Canace",
+    "variants": [
+      {
+        "name": "12001_l",
+        "label": "Default",
+        "path": "/assets/chars/12001/12001_l/12001_L.model3.json"
+      },
+      {
+        "name": "12001_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/12001/12001_lf/12001_F_a.model3.json"
+      },
+      {
+        "name": "12001_lt",
+        "label": "Talent",
+        "path": "/assets/chars/12001/12001_lt/12001_T.model3.json"
+      },
+      {
+        "name": "12002_l",
+        "label": "Awakened",
+        "path": "/assets/chars/12002/12002_l/12002_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "12301",
+    "name": "Ann",
+    "variants": [
+      {
+        "name": "12301_l",
+        "label": "Default",
+        "path": "/assets/chars/12301/12301_l/12301_L.model3.json"
+      },
+      {
+        "name": "12301_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/12301/12301_lf/12301_F.model3.json"
+      },
+      {
+        "name": "12301_lt",
+        "label": "Talent",
+        "path": "/assets/chars/12301/12301_lt/12301_T.model3.json"
+      },
+      {
+        "name": "12302_l",
+        "label": "Awakened",
+        "path": "/assets/chars/12302/12302_l/12302_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "12501",
+    "name": "Freesia",
+    "variants": [
+      {
+        "name": "12501_l",
+        "label": "Default",
+        "path": "/assets/chars/12501/12501_l/12501_L.model3.json"
+      },
+      {
+        "name": "12501_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/12501/12501_lf/12501_F_a.model3.json"
+      },
+      {
+        "name": "12501_lt",
+        "label": "Talent",
+        "path": "/assets/chars/12501/12501_lt/12501_T.model3.json"
+      },
+      {
+        "name": "12502_l",
+        "label": "Awakened",
+        "path": "/assets/chars/12502/12502_l/12502_L.model3.json"
+      },
+      {
+        "name": "12503_l",
+        "label": "Unknow",
+        "path": "/assets/chars/12503/12503_l/12503_L_a.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "12601",
+    "name": "Flora",
+    "variants": [
+      {
+        "name": "12601_l",
+        "label": "Default",
+        "path": "/assets/chars/12601/12601_l/12601_L.model3.json"
+      },
+      {
+        "name": "12601_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/12601/12601_lf/12601_F.model3.json"
+      },
+      {
+        "name": "12601_lt",
+        "label": "Talent",
+        "path": "/assets/chars/12601/12601_lt/12601_T.model3.json"
+      },
+      {
+        "name": "12602_l",
+        "label": "Awakened",
+        "path": "/assets/chars/12602/12602_l/12602_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "12701",
+    "name": "Teresa",
+    "variants": [
+      {
+        "name": "12701_l",
+        "label": "Default",
+        "path": "/assets/chars/12701/12701_l/12701_L.model3.json"
+      },
+      {
+        "name": "12701_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/12701/12701_lf/12701_F.model3.json"
+      },
+      {
+        "name": "12701_lt",
+        "label": "Talent",
+        "path": "/assets/chars/12701/12701_lt/12701_T.model3.json"
+      },
+      {
+        "name": "12702_l",
+        "label": "Awakened",
+        "path": "/assets/chars/12702/12702_l/12702_L.model3.json"
+      },
+      {
+        "name": "12703_l",
+        "label": "Unknow",
+        "path": "/assets/chars/12703/12703_l/12703_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "13001",
+    "name": "Donna",
+    "variants": [
+      {
+        "name": "13001_l",
+        "label": "Default",
+        "path": "/assets/chars/13001/13001_l/13001_L.model3.json"
+      },
+      {
+        "name": "13001_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/13001/13001_lf/13001_F_a.model3.json"
+      },
+      {
+        "name": "13001_lt",
+        "label": "Talent",
+        "path": "/assets/chars/13001/13001_lt/13001_T.model3.json"
+      },
+      {
+        "name": "13002_l",
+        "label": "Awakened",
+        "path": "/assets/chars/13002/13002_l/13002_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "13201",
+    "name": "Minova",
+    "variants": [
+      {
+        "name": "13201_l",
+        "label": "Default",
+        "path": "/assets/chars/13201/13201_l/13201_L.model3.json"
+      },
+      {
+        "name": "13201_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/13201/13201_lf/13201_F_a.model3.json"
+      },
+      {
+        "name": "13201_lt",
+        "label": "Talent",
+        "path": "/assets/chars/13201/13201_lt/13201_T.model3.json"
+      },
+      {
+        "name": "13202_l",
+        "label": "Awakened",
+        "path": "/assets/chars/13202/13202_l/13202_L_a.model3.json"
+      },
+      {
+        "name": "13203_l",
+        "label": "Unknow",
+        "path": "/assets/chars/13203/13203_l/13203_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "13301",
+    "name": "Nazuka",
+    "variants": [
+      {
+        "name": "13301_l",
+        "label": "Default",
+        "path": "/assets/chars/13301/13301_l/13301_L.model3.json"
+      },
+      {
+        "name": "13301_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/13301/13301_lf/13301_F_a.model3.json"
+      },
+      {
+        "name": "13301_lt",
+        "label": "Talent",
+        "path": "/assets/chars/13301/13301_lt/13301_T.model3.json"
+      },
+      {
+        "name": "13302_l",
+        "label": "Awakened",
+        "path": "/assets/chars/13302/13302_l/13302_L.model3.json"
+      },
+      {
+        "name": "13303_l",
+        "label": "Unknow",
+        "path": "/assets/chars/13303/13303_l/13303_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "13401",
+    "name": "Fuyuka",
+    "variants": [
+      {
+        "name": "13401_l",
+        "label": "Default",
+        "path": "/assets/chars/13401/13401_l/13401_L.model3.json"
+      },
+      {
+        "name": "13401_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/13401/13401_lf/13401_F_a.model3.json"
+      },
+      {
+        "name": "13401_lt",
+        "label": "Talent",
+        "path": "/assets/chars/13401/13401_lt/13401_T.model3.json"
+      },
+      {
+        "name": "13402_l",
+        "label": "Awakened",
+        "path": "/assets/chars/13402/13402_l/13402_L.model3.json"
+      },
+      {
+        "name": "13403_l",
+        "label": "Unknow",
+        "path": "/assets/chars/13403/13403_l/13403_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "13501",
+    "name": "Mistique",
+    "variants": [
+      {
+        "name": "13501_l",
+        "label": "Default",
+        "path": "/assets/chars/13501/13501_l/13501_L.model3.json"
+      },
+      {
+        "name": "13501_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/13501/13501_lf/13501_F_a.model3.json"
+      },
+      {
+        "name": "13501_lt",
+        "label": "Talent",
+        "path": "/assets/chars/13501/13501_lt/13501_T.model3.json"
+      },
+      {
+        "name": "13502_l",
+        "label": "Awakened",
+        "path": "/assets/chars/13502/13502_l/13502_L.model3.json"
+      },
+      {
+        "name": "13503_l",
+        "label": "Unknow",
+        "path": "/assets/chars/13503/13503_l/13503_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "14101",
+    "name": "Chixia",
+    "variants": [
+      {
+        "name": "14101_l",
+        "label": "Default",
+        "path": "/assets/chars/14101/14101_l/14101_L.model3.json"
+      },
+      {
+        "name": "14101_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/14101/14101_lf/14101_F_a.model3.json"
+      },
+      {
+        "name": "14101_lt",
+        "label": "Talent",
+        "path": "/assets/chars/14101/14101_lt/14101_T.model3.json"
+      },
+      {
+        "name": "14102_l",
+        "label": "Awakened",
+        "path": "/assets/chars/14102/14102_l/14102_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "14201",
+    "name": "Cosette",
+    "variants": [
+      {
+        "name": "14201_l",
+        "label": "Default",
+        "path": "/assets/chars/14201/14201_l/14201_L.model3.json"
+      },
+      {
+        "name": "14201_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/14201/14201_lf/14201_F.model3.json"
+      },
+      {
+        "name": "14201_lt",
+        "label": "Talent",
+        "path": "/assets/chars/14201/14201_lt/14201_T.model3.json"
+      },
+      {
+        "name": "14202_l",
+        "label": "Awakened",
+        "path": "/assets/chars/14202/14202_l/14202_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "14301",
+    "name": "Wraith",
+    "variants": [
+      {
+        "name": "14301_l",
+        "label": "Default",
+        "path": "/assets/chars/14301/14301_l/14301_L.model3.json"
+      },
+      {
+        "name": "14301_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/14301/14301_lf/14301_F_a.model3.json"
+      },
+      {
+        "name": "14301_lt",
+        "label": "Talent",
+        "path": "/assets/chars/14301/14301_lt/14301_T.model3.json"
+      },
+      {
+        "name": "14302_l",
+        "label": "Awakened",
+        "path": "/assets/chars/14302/14302_l/14302_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "14401",
+    "name": "Chitose",
+    "variants": [
+      {
+        "name": "14401_l",
+        "label": "Default",
+        "path": "/assets/chars/14401/14401_l/14401_L.model3.json"
+      },
+      {
+        "name": "14401_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/14401/14401_lf/14401_F_a.model3.json"
+      },
+      {
+        "name": "14401_lt",
+        "label": "Talent",
+        "path": "/assets/chars/14401/14401_lt/14401_T.model3.json"
+      },
+      {
+        "name": "14402_l",
+        "label": "Awakened",
+        "path": "/assets/chars/14402/14402_l/14402_L.model3.json"
+      },
+      {
+        "name": "14403_l",
+        "label": "Unknow",
+        "path": "/assets/chars/14403/14403_l/14403_L_a.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "14501",
+    "name": "Otoha",
+    "variants": [
+      {
+        "name": "14501_l",
+        "label": "Default",
+        "path": "/assets/chars/14501/14501_l/14501_L.model3.json"
+      },
+      {
+        "name": "14501_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/14501/14501_lf/14501_F_a.model3.json"
+      },
+      {
+        "name": "14501_lt",
+        "label": "Talent",
+        "path": "/assets/chars/14501/14501_lt/14501_T.model3.json"
+      },
+      {
+        "name": "14502_l",
+        "label": "Awakened",
+        "path": "/assets/chars/14502/14502_l/14502_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "14701",
+    "name": "Caramel",
+    "variants": [
+      {
+        "name": "14701_l",
+        "label": "Default",
+        "path": "/assets/chars/14701/14701_l/14701_L.model3.json"
+      },
+      {
+        "name": "14701_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/14701/14701_lf/14701_F_a.model3.json"
+      },
+      {
+        "name": "14701_lt",
+        "label": "Talent",
+        "path": "/assets/chars/14701/14701_lt/14701_T.model3.json"
+      },
+      {
+        "name": "14702_l",
+        "label": "Awakened",
+        "path": "/assets/chars/14702/14702_l/14702_L.model3.json"
+      },
+      {
+        "name": "14703_l",
+        "label": "Unknow",
+        "path": "/assets/chars/14703/14703_l/14703_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "14901",
+    "name": "Gerie",
+    "variants": [
+      {
+        "name": "14901_l",
+        "label": "Default",
+        "path": "/assets/chars/14901/14901_l/14901_L.model3.json"
+      },
+      {
+        "name": "14901_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/14901/14901_lf/14901_F_a.model3.json"
+      },
+      {
+        "name": "14901_lt",
+        "label": "Talent",
+        "path": "/assets/chars/14901/14901_lt/14901_T.model3.json"
+      },
+      {
+        "name": "14902_l",
+        "label": "Awakened",
+        "path": "/assets/chars/14902/14902_l/14902_L.model3.json"
+      },
+      {
+        "name": "14903_l",
+        "label": "Unknow",
+        "path": "/assets/chars/14903/14903_l/14903_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "15001",
+    "name": "Laru",
+    "variants": [
+      {
+        "name": "15001_l",
+        "label": "Default",
+        "path": "/assets/chars/15001/15001_l/15001_L.model3.json"
+      },
+      {
+        "name": "15001_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/15001/15001_lf/15001_F_a.model3.json"
+      },
+      {
+        "name": "15001_lt",
+        "label": "Talent",
+        "path": "/assets/chars/15001/15001_lt/15001_T.model3.json"
+      },
+      {
+        "name": "15002_l",
+        "label": "Awakened",
+        "path": "/assets/chars/15002/15002_l/15002_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "15501",
+    "name": "Shia",
+    "variants": [
+      {
+        "name": "15501_l",
+        "label": "Default",
+        "path": "/assets/chars/15501/15501_l/15501_L.model3.json"
+      },
+      {
+        "name": "15501_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/15501/15501_lf/15501_F_a.model3.json"
+      },
+      {
+        "name": "15501_lt",
+        "label": "Talent",
+        "path": "/assets/chars/15501/15501_lt/15501_T.model3.json"
+      },
+      {
+        "name": "15502_l",
+        "label": "Awakened",
+        "path": "/assets/chars/15502/15502_l/15502_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "15601",
+    "name": "Nazuna",
+    "variants": [
+      {
+        "name": "15601_l",
+        "label": "Default",
+        "path": "/assets/chars/15601/15601_l/15601_L.model3.json"
+      },
+      {
+        "name": "15601_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/15601/15601_lf/15601_F_a.model3.json"
+      },
+      {
+        "name": "15601_lt",
+        "label": "Talent",
+        "path": "/assets/chars/15601/15601_lt/15601_T.model3.json"
+      },
+      {
+        "name": "15602_l",
+        "label": "Awakened",
+        "path": "/assets/chars/15602/15602_l/15602_L.model3.json"
+      },
+      {
+        "name": "15603_l",
+        "label": "Unknow",
+        "path": "/assets/chars/15603/15603_l/15603_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "15801",
+    "name": "Snowish Laru",
+    "variants": [
+      {
+        "name": "15801_l",
+        "label": "Default",
+        "path": "/assets/chars/15801/15801_l/15801_L.model3.json"
+      },
+      {
+        "name": "15801_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/15801/15801_lf/15801_F_a.model3.json"
+      },
+      {
+        "name": "15801_lt",
+        "label": "Talent",
+        "path": "/assets/chars/15801/15801_lt/15801_T.model3.json"
+      },
+      {
+        "name": "15802_l",
+        "label": "Awakened",
+        "path": "/assets/chars/15802/15802_l/15802_L.model3.json"
+      }
+    ]
+  },
+  {
+    "id": "15901",
+    "name": "Springseek Coronis",
+    "variants": [
+      {
+        "name": "15901_l",
+        "label": "Default",
+        "path": "/assets/chars/15901/15901_l/15901_L.model3.json"
+      },
+      {
+        "name": "15901_lf",
+        "label": "Memory Snapshot",
+        "path": "/assets/chars/15901/15901_lf/15901_F_a.model3.json"
+      },
+      {
+        "name": "15901_lt",
+        "label": "Talent",
+        "path": "/assets/chars/15901/15901_lt/15901_T.model3.json"
+      },
+      {
+        "name": "15902_l",
+        "label": "Awakened",
+        "path": "/assets/chars/15902/15902_l/15902_L.model3.json"
+      }
+    ]
+  }
+]

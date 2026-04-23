@@ -15,7 +15,7 @@ export default defineConfig((env: ConfigEnv): UserConfig => {
     build: {
       target: 'baseline-widely-available',
       assetsDir: 'assets',
-      outDir: './dist',
+      outDir: './docs',
       sourcemap: env.mode == 'development' ? true : false,
     },
   };

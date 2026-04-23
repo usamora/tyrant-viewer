@@ -1,0 +1,176 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamAll",
+      "GroupId": "",
+      "Name": "服摇"
+    },
+    {
+      "Id": "ParamAllSize",
+      "GroupId": "",
+      "Name": "镜头大小"
+    },
+    {
+      "Id": "ParamAllX",
+      "GroupId": "",
+      "Name": "镜头X"
+    },
+    {
+      "Id": "ParamAllY",
+      "GroupId": "",
+      "Name": "镜头Y"
+    },
+    {
+      "Id": "ParamBodyX",
+      "GroupId": "",
+      "Name": "体X"
+    },
+    {
+      "Id": "ParamTail",
+      "GroupId": "",
+      "Name": "尾巴"
+    },
+    {
+      "Id": "Param_Angle_Rotation25",
+      "GroupId": "",
+      "Name": "[0]右袖"
+    },
+    {
+      "Id": "Param_Angle_Rotation26",
+      "GroupId": "",
+      "Name": "[1]右袖"
+    },
+    {
+      "Id": "Param_Angle_Rotation27",
+      "GroupId": "",
+      "Name": "[2]右袖"
+    },
+    {
+      "Id": "Param_Angle_Rotation28",
+      "GroupId": "",
+      "Name": "[3]右袖"
+    },
+    {
+      "Id": "Param_Angle_Rotation29",
+      "GroupId": "",
+      "Name": "[4]右袖"
+    },
+    {
+      "Id": "Param_Angle_Rotation31",
+      "GroupId": "",
+      "Name": "[0]左袖"
+    },
+    {
+      "Id": "Param_Angle_Rotation32",
+      "GroupId": "",
+      "Name": "[1]左袖"
+    },
+    {
+      "Id": "Param_Angle_Rotation33",
+      "GroupId": "",
+      "Name": "[0]裙子1"
+    },
+    {
+      "Id": "Param_Angle_Rotation34",
+      "GroupId": "",
+      "Name": "[1]裙子1"
+    },
+    {
+      "Id": "Param_Angle_Rotation35",
+      "GroupId": "",
+      "Name": "[2]裙子1"
+    },
+    {
+      "Id": "Param_Angle_Rotation36",
+      "GroupId": "",
+      "Name": "[3]裙子1"
+    },
+    {
+      "Id": "Param_Angle_Rotation37",
+      "GroupId": "",
+      "Name": "[4]裙子1"
+    },
+    {
+      "Id": "Param_Angle_Rotation38",
+      "GroupId": "",
+      "Name": "[5]裙子1"
+    },
+    {
+      "Id": "Param_Angle_Rotation39",
+      "GroupId": "",
+      "Name": "[6]裙子1"
+    },
+    {
+      "Id": "Param_Angle_Rotation40",
+      "GroupId": "",
+      "Name": "[0]裙子2"
+    },
+    {
+      "Id": "Param_Angle_Rotation41",
+      "GroupId": "",
+      "Name": "[1]裙子2"
+    },
+    {
+      "Id": "Param_Angle_Rotation42",
+      "GroupId": "",
+      "Name": "[2]裙子2"
+    },
+    {
+      "Id": "Param_Angle_Rotation43",
+      "GroupId": "",
+      "Name": "[3]裙子2"
+    },
+    {
+      "Id": "Param_Angle_Rotation44",
+      "GroupId": "",
+      "Name": "[4]裙子2"
+    },
+    {
+      "Id": "Param_Angle_Rotation45",
+      "GroupId": "",
+      "Name": "[5]裙子2"
+    },
+    {
+      "Id": "Param_Angle_Rotation46",
+      "GroupId": "",
+      "Name": "[6]裙子2"
+    },
+    {
+      "Id": "Param_Angle_Rotation47",
+      "GroupId": "",
+      "Name": "[2]左袖"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "L_sleeve_Skinning",
+      "Name": "skirt_3(蒙皮)"
+    },
+    {
+      "Id": "R_sleeve_Skinning",
+      "Name": "[ 参考图 ]"
+    },
+    {
+      "Id": "skirt_1_Skinning",
+      "Name": "R_sleeve(蒙皮)"
+    },
+    {
+      "Id": "skirt_2_Skinning",
+      "Name": "skirt_1(蒙皮)"
+    },
+    {
+      "Id": "skirt_3_Skinning",
+      "Name": "skirt_2(蒙皮)"
+    },
+    {
+      "Id": "Tail",
+      "Name": "尾巴"
+    },
+    {
+      "Id": "yiyeCG_B",
+      "Name": "yiyeCG_B"
+    }
+  ]
+}

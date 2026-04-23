@@ -1,0 +1,1081 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "笑"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "张嘴"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "肩膀"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "左臂"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "左腕"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "左手"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "喝水"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "头z"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "头z2"
+    },
+    {
+      "Id": "ParamAll",
+      "GroupId": "",
+      "Name": "all"
+    },
+    {
+      "Id": "ParamBody",
+      "GroupId": "",
+      "Name": "体"
+    },
+    {
+      "Id": "ParamHand",
+      "GroupId": "",
+      "Name": "手"
+    },
+    {
+      "Id": "ParamHead1",
+      "GroupId": "",
+      "Name": "头"
+    },
+    {
+      "Id": "ParamLeg",
+      "GroupId": "",
+      "Name": "左腿"
+    },
+    {
+      "Id": "ParamLeg2",
+      "GroupId": "",
+      "Name": "左腿2"
+    },
+    {
+      "Id": "ParamLeg3",
+      "GroupId": "",
+      "Name": "右腿"
+    },
+    {
+      "Id": "ParamLeg4",
+      "GroupId": "",
+      "Name": "右腿2"
+    },
+    {
+      "Id": "ParamLeg5",
+      "GroupId": "",
+      "Name": "左脚"
+    },
+    {
+      "Id": "ParamLeg6",
+      "GroupId": "",
+      "Name": "右脚"
+    },
+    {
+      "Id": "ParamStar1",
+      "GroupId": "",
+      "Name": "星星1"
+    },
+    {
+      "Id": "ParamStar2",
+      "GroupId": "",
+      "Name": "星星2"
+    },
+    {
+      "Id": "ParamStar3",
+      "GroupId": "",
+      "Name": "星星3"
+    },
+    {
+      "Id": "ParamStar4",
+      "GroupId": "",
+      "Name": "星星4"
+    },
+    {
+      "Id": "Param_Angle_Rotation",
+      "GroupId": "",
+      "Name": "[0]窗帘1"
+    },
+    {
+      "Id": "Param_Angle_Rotation10",
+      "GroupId": "",
+      "Name": "[0]窗帘4"
+    },
+    {
+      "Id": "Param_Angle_Rotation102",
+      "GroupId": "",
+      "Name": "[0]屋顶4"
+    },
+    {
+      "Id": "Param_Angle_Rotation103",
+      "GroupId": "",
+      "Name": "[1]屋顶4"
+    },
+    {
+      "Id": "Param_Angle_Rotation104",
+      "GroupId": "",
+      "Name": "[2]屋顶4"
+    },
+    {
+      "Id": "Param_Angle_Rotation11",
+      "GroupId": "",
+      "Name": "[1]窗帘4"
+    },
+    {
+      "Id": "Param_Angle_Rotation12",
+      "GroupId": "",
+      "Name": "[2]窗帘4"
+    },
+    {
+      "Id": "Param_Angle_Rotation122",
+      "GroupId": "",
+      "Name": "[0]头发1"
+    },
+    {
+      "Id": "Param_Angle_Rotation123",
+      "GroupId": "",
+      "Name": "[1]头发1"
+    },
+    {
+      "Id": "Param_Angle_Rotation124",
+      "GroupId": "",
+      "Name": "[2]头发1"
+    },
+    {
+      "Id": "Param_Angle_Rotation126",
+      "GroupId": "",
+      "Name": "[0]头发2"
+    },
+    {
+      "Id": "Param_Angle_Rotation127",
+      "GroupId": "",
+      "Name": "[1]头发2"
+    },
+    {
+      "Id": "Param_Angle_Rotation128",
+      "GroupId": "",
+      "Name": "[2]头发2"
+    },
+    {
+      "Id": "Param_Angle_Rotation13",
+      "GroupId": "",
+      "Name": "[3]窗帘4"
+    },
+    {
+      "Id": "Param_Angle_Rotation130",
+      "GroupId": "",
+      "Name": "[0]头发3"
+    },
+    {
+      "Id": "Param_Angle_Rotation131",
+      "GroupId": "",
+      "Name": "[1]头发3"
+    },
+    {
+      "Id": "Param_Angle_Rotation132",
+      "GroupId": "",
+      "Name": "[2]头发3"
+    },
+    {
+      "Id": "Param_Angle_Rotation134",
+      "GroupId": "",
+      "Name": "[0]头发4"
+    },
+    {
+      "Id": "Param_Angle_Rotation135",
+      "GroupId": "",
+      "Name": "[1]头发4"
+    },
+    {
+      "Id": "Param_Angle_Rotation136",
+      "GroupId": "",
+      "Name": "[2]头发4"
+    },
+    {
+      "Id": "Param_Angle_Rotation137",
+      "GroupId": "",
+      "Name": "[0]头发5"
+    },
+    {
+      "Id": "Param_Angle_Rotation138",
+      "GroupId": "",
+      "Name": "[1]头发5"
+    },
+    {
+      "Id": "Param_Angle_Rotation139",
+      "GroupId": "",
+      "Name": "[2]头发5"
+    },
+    {
+      "Id": "Param_Angle_Rotation140",
+      "GroupId": "",
+      "Name": "[3]头发5"
+    },
+    {
+      "Id": "Param_Angle_Rotation146",
+      "GroupId": "",
+      "Name": "[0]发1"
+    },
+    {
+      "Id": "Param_Angle_Rotation147",
+      "GroupId": "",
+      "Name": "[1]发1"
+    },
+    {
+      "Id": "Param_Angle_Rotation148",
+      "GroupId": "",
+      "Name": "[2]发1"
+    },
+    {
+      "Id": "Param_Angle_Rotation15",
+      "GroupId": "",
+      "Name": "[0]窗帘5"
+    },
+    {
+      "Id": "Param_Angle_Rotation150",
+      "GroupId": "",
+      "Name": "[0]发2"
+    },
+    {
+      "Id": "Param_Angle_Rotation151",
+      "GroupId": "",
+      "Name": "[1]发2"
+    },
+    {
+      "Id": "Param_Angle_Rotation152",
+      "GroupId": "",
+      "Name": "[2]发2"
+    },
+    {
+      "Id": "Param_Angle_Rotation154",
+      "GroupId": "",
+      "Name": "[0]发3"
+    },
+    {
+      "Id": "Param_Angle_Rotation155",
+      "GroupId": "",
+      "Name": "[1]发3"
+    },
+    {
+      "Id": "Param_Angle_Rotation156",
+      "GroupId": "",
+      "Name": "[2]发3"
+    },
+    {
+      "Id": "Param_Angle_Rotation157",
+      "GroupId": "",
+      "Name": "[0]发4"
+    },
+    {
+      "Id": "Param_Angle_Rotation158",
+      "GroupId": "",
+      "Name": "[1]发4"
+    },
+    {
+      "Id": "Param_Angle_Rotation159",
+      "GroupId": "",
+      "Name": "[2]发4"
+    },
+    {
+      "Id": "Param_Angle_Rotation16",
+      "GroupId": "",
+      "Name": "[1]窗帘5"
+    },
+    {
+      "Id": "Param_Angle_Rotation161",
+      "GroupId": "",
+      "Name": "[0]发5"
+    },
+    {
+      "Id": "Param_Angle_Rotation162",
+      "GroupId": "",
+      "Name": "[1]发5"
+    },
+    {
+      "Id": "Param_Angle_Rotation163",
+      "GroupId": "",
+      "Name": "[2]发5"
+    },
+    {
+      "Id": "Param_Angle_Rotation164",
+      "GroupId": "",
+      "Name": "[0]发6"
+    },
+    {
+      "Id": "Param_Angle_Rotation165",
+      "GroupId": "",
+      "Name": "[1]发6"
+    },
+    {
+      "Id": "Param_Angle_Rotation166",
+      "GroupId": "",
+      "Name": "[2]发6"
+    },
+    {
+      "Id": "Param_Angle_Rotation167",
+      "GroupId": "",
+      "Name": "[3]发6"
+    },
+    {
+      "Id": "Param_Angle_Rotation168",
+      "GroupId": "",
+      "Name": "[0]发7"
+    },
+    {
+      "Id": "Param_Angle_Rotation169",
+      "GroupId": "",
+      "Name": "[1]发7"
+    },
+    {
+      "Id": "Param_Angle_Rotation17",
+      "GroupId": "",
+      "Name": "[2]窗帘5"
+    },
+    {
+      "Id": "Param_Angle_Rotation170",
+      "GroupId": "",
+      "Name": "[2]发7"
+    },
+    {
+      "Id": "Param_Angle_Rotation171",
+      "GroupId": "",
+      "Name": "[3]发7"
+    },
+    {
+      "Id": "Param_Angle_Rotation173",
+      "GroupId": "",
+      "Name": "[0]发8"
+    },
+    {
+      "Id": "Param_Angle_Rotation174",
+      "GroupId": "",
+      "Name": "[1]发8"
+    },
+    {
+      "Id": "Param_Angle_Rotation175",
+      "GroupId": "",
+      "Name": "[2]发8"
+    },
+    {
+      "Id": "Param_Angle_Rotation177",
+      "GroupId": "",
+      "Name": "[0]发9"
+    },
+    {
+      "Id": "Param_Angle_Rotation178",
+      "GroupId": "",
+      "Name": "[1]发9"
+    },
+    {
+      "Id": "Param_Angle_Rotation179",
+      "GroupId": "",
+      "Name": "[2]发9"
+    },
+    {
+      "Id": "Param_Angle_Rotation18",
+      "GroupId": "",
+      "Name": "[3]窗帘5"
+    },
+    {
+      "Id": "Param_Angle_Rotation180",
+      "GroupId": "",
+      "Name": "[0]发10"
+    },
+    {
+      "Id": "Param_Angle_Rotation181",
+      "GroupId": "",
+      "Name": "[1]发10"
+    },
+    {
+      "Id": "Param_Angle_Rotation182",
+      "GroupId": "",
+      "Name": "[2]发10"
+    },
+    {
+      "Id": "Param_Angle_Rotation184",
+      "GroupId": "",
+      "Name": "[0]发带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation185",
+      "GroupId": "",
+      "Name": "[1]发带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation186",
+      "GroupId": "",
+      "Name": "[2]发带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation188",
+      "GroupId": "",
+      "Name": "[0]发带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation189",
+      "GroupId": "",
+      "Name": "[1]发带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation19",
+      "GroupId": "",
+      "Name": "[4]窗帘5"
+    },
+    {
+      "Id": "Param_Angle_Rotation190",
+      "GroupId": "",
+      "Name": "[2]发带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation192",
+      "GroupId": "",
+      "Name": "[0]头发6"
+    },
+    {
+      "Id": "Param_Angle_Rotation193",
+      "GroupId": "",
+      "Name": "[1]头发6"
+    },
+    {
+      "Id": "Param_Angle_Rotation194",
+      "GroupId": "",
+      "Name": "[2]头发6"
+    },
+    {
+      "Id": "Param_Angle_Rotation2",
+      "GroupId": "",
+      "Name": "[1]窗帘1"
+    },
+    {
+      "Id": "Param_Angle_Rotation21",
+      "GroupId": "",
+      "Name": "[0]窗帘6"
+    },
+    {
+      "Id": "Param_Angle_Rotation22",
+      "GroupId": "",
+      "Name": "[1]窗帘6"
+    },
+    {
+      "Id": "Param_Angle_Rotation23",
+      "GroupId": "",
+      "Name": "[2]窗帘6"
+    },
+    {
+      "Id": "Param_Angle_Rotation24",
+      "GroupId": "",
+      "Name": "[3]窗帘6"
+    },
+    {
+      "Id": "Param_Angle_Rotation25",
+      "GroupId": "",
+      "Name": "[4]窗帘6"
+    },
+    {
+      "Id": "Param_Angle_Rotation26",
+      "GroupId": "",
+      "Name": "[5]窗帘6"
+    },
+    {
+      "Id": "Param_Angle_Rotation27",
+      "GroupId": "",
+      "Name": "[0]窗帘7"
+    },
+    {
+      "Id": "Param_Angle_Rotation28",
+      "GroupId": "",
+      "Name": "[1]窗帘7"
+    },
+    {
+      "Id": "Param_Angle_Rotation29",
+      "GroupId": "",
+      "Name": "[2]窗帘7"
+    },
+    {
+      "Id": "Param_Angle_Rotation3",
+      "GroupId": "",
+      "Name": "[0]窗帘2"
+    },
+    {
+      "Id": "Param_Angle_Rotation30",
+      "GroupId": "",
+      "Name": "[0]窗帘8"
+    },
+    {
+      "Id": "Param_Angle_Rotation31",
+      "GroupId": "",
+      "Name": "[1]窗帘8"
+    },
+    {
+      "Id": "Param_Angle_Rotation32",
+      "GroupId": "",
+      "Name": "[2]窗帘8"
+    },
+    {
+      "Id": "Param_Angle_Rotation33",
+      "GroupId": "",
+      "Name": "[0]窗帘9"
+    },
+    {
+      "Id": "Param_Angle_Rotation35",
+      "GroupId": "",
+      "Name": "[1]窗帘9"
+    },
+    {
+      "Id": "Param_Angle_Rotation36",
+      "GroupId": "",
+      "Name": "[2]窗帘9"
+    },
+    {
+      "Id": "Param_Angle_Rotation37",
+      "GroupId": "",
+      "Name": "[3]窗帘9"
+    },
+    {
+      "Id": "Param_Angle_Rotation38",
+      "GroupId": "",
+      "Name": "[0]窗帘10"
+    },
+    {
+      "Id": "Param_Angle_Rotation39",
+      "GroupId": "",
+      "Name": "[1]窗帘10"
+    },
+    {
+      "Id": "Param_Angle_Rotation4",
+      "GroupId": "",
+      "Name": "[1]窗帘2"
+    },
+    {
+      "Id": "Param_Angle_Rotation40",
+      "GroupId": "",
+      "Name": "[2]窗帘10"
+    },
+    {
+      "Id": "Param_Angle_Rotation41",
+      "GroupId": "",
+      "Name": "[3]窗帘10"
+    },
+    {
+      "Id": "Param_Angle_Rotation42",
+      "GroupId": "",
+      "Name": "[0]蝴蝶结1"
+    },
+    {
+      "Id": "Param_Angle_Rotation43",
+      "GroupId": "",
+      "Name": "[1]蝴蝶结1"
+    },
+    {
+      "Id": "Param_Angle_Rotation44",
+      "GroupId": "",
+      "Name": "[2]蝴蝶结1"
+    },
+    {
+      "Id": "Param_Angle_Rotation45",
+      "GroupId": "",
+      "Name": "[0]蝴蝶结2"
+    },
+    {
+      "Id": "Param_Angle_Rotation46",
+      "GroupId": "",
+      "Name": "[1]蝴蝶结2"
+    },
+    {
+      "Id": "Param_Angle_Rotation47",
+      "GroupId": "",
+      "Name": "[2]蝴蝶结2"
+    },
+    {
+      "Id": "Param_Angle_Rotation49",
+      "GroupId": "",
+      "Name": "[0]蝴蝶结3"
+    },
+    {
+      "Id": "Param_Angle_Rotation5",
+      "GroupId": "",
+      "Name": "[2]窗帘2"
+    },
+    {
+      "Id": "Param_Angle_Rotation50",
+      "GroupId": "",
+      "Name": "[1]蝴蝶结3"
+    },
+    {
+      "Id": "Param_Angle_Rotation51",
+      "GroupId": "",
+      "Name": "[2]蝴蝶结3"
+    },
+    {
+      "Id": "Param_Angle_Rotation53",
+      "GroupId": "",
+      "Name": "[0]蝴蝶结4"
+    },
+    {
+      "Id": "Param_Angle_Rotation54",
+      "GroupId": "",
+      "Name": "[1]蝴蝶结4"
+    },
+    {
+      "Id": "Param_Angle_Rotation55",
+      "GroupId": "",
+      "Name": "[2]蝴蝶结4"
+    },
+    {
+      "Id": "Param_Angle_Rotation56",
+      "GroupId": "",
+      "Name": "[0]圣诞树1"
+    },
+    {
+      "Id": "Param_Angle_Rotation57",
+      "GroupId": "",
+      "Name": "[1]圣诞树1"
+    },
+    {
+      "Id": "Param_Angle_Rotation58",
+      "GroupId": "",
+      "Name": "[2]圣诞树1"
+    },
+    {
+      "Id": "Param_Angle_Rotation60",
+      "GroupId": "",
+      "Name": "[0]圣诞树2"
+    },
+    {
+      "Id": "Param_Angle_Rotation61",
+      "GroupId": "",
+      "Name": "[1]圣诞树2"
+    },
+    {
+      "Id": "Param_Angle_Rotation62",
+      "GroupId": "",
+      "Name": "[0]圣诞树3"
+    },
+    {
+      "Id": "Param_Angle_Rotation63",
+      "GroupId": "",
+      "Name": "[1]圣诞树3"
+    },
+    {
+      "Id": "Param_Angle_Rotation64",
+      "GroupId": "",
+      "Name": "[2]圣诞树3"
+    },
+    {
+      "Id": "Param_Angle_Rotation65",
+      "GroupId": "",
+      "Name": "[0]圣诞树4"
+    },
+    {
+      "Id": "Param_Angle_Rotation66",
+      "GroupId": "",
+      "Name": "[1]圣诞树4"
+    },
+    {
+      "Id": "Param_Angle_Rotation68",
+      "GroupId": "",
+      "Name": "[0]灯带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation69",
+      "GroupId": "",
+      "Name": "[1]灯带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation7",
+      "GroupId": "",
+      "Name": "[0]窗帘3"
+    },
+    {
+      "Id": "Param_Angle_Rotation70",
+      "GroupId": "",
+      "Name": "[2]灯带1"
+    },
+    {
+      "Id": "Param_Angle_Rotation72",
+      "GroupId": "",
+      "Name": "[0]灯带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation73",
+      "GroupId": "",
+      "Name": "[1]灯带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation74",
+      "GroupId": "",
+      "Name": "[2]灯带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation75",
+      "GroupId": "",
+      "Name": "[3]灯带2"
+    },
+    {
+      "Id": "Param_Angle_Rotation77",
+      "GroupId": "",
+      "Name": "[0]灯带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation78",
+      "GroupId": "",
+      "Name": "[1]灯带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation79",
+      "GroupId": "",
+      "Name": "[2]灯带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation8",
+      "GroupId": "",
+      "Name": "[1]窗帘3"
+    },
+    {
+      "Id": "Param_Angle_Rotation80",
+      "GroupId": "",
+      "Name": "[3]灯带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation81",
+      "GroupId": "",
+      "Name": "[4]灯带3"
+    },
+    {
+      "Id": "Param_Angle_Rotation83",
+      "GroupId": "",
+      "Name": "[0]灯带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation84",
+      "GroupId": "",
+      "Name": "[1]灯带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation85",
+      "GroupId": "",
+      "Name": "[2]灯带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation86",
+      "GroupId": "",
+      "Name": "[3]灯带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation87",
+      "GroupId": "",
+      "Name": "[4]灯带4"
+    },
+    {
+      "Id": "Param_Angle_Rotation88",
+      "GroupId": "",
+      "Name": "[0]屋顶1"
+    },
+    {
+      "Id": "Param_Angle_Rotation89",
+      "GroupId": "",
+      "Name": "[1]屋顶1"
+    },
+    {
+      "Id": "Param_Angle_Rotation9",
+      "GroupId": "",
+      "Name": "[2]窗帘3"
+    },
+    {
+      "Id": "Param_Angle_Rotation90",
+      "GroupId": "",
+      "Name": "[2]屋顶1"
+    },
+    {
+      "Id": "Param_Angle_Rotation92",
+      "GroupId": "",
+      "Name": "[0]屋顶2"
+    },
+    {
+      "Id": "Param_Angle_Rotation93",
+      "GroupId": "",
+      "Name": "[1]屋顶2"
+    },
+    {
+      "Id": "Param_Angle_Rotation94",
+      "GroupId": "",
+      "Name": "[2]屋顶2"
+    },
+    {
+      "Id": "Param_Angle_Rotation96",
+      "GroupId": "",
+      "Name": "[0]屋顶3"
+    },
+    {
+      "Id": "Param_Angle_Rotation97",
+      "GroupId": "",
+      "Name": "[1]屋顶3"
+    },
+    {
+      "Id": "Param_Angle_Rotation98",
+      "GroupId": "",
+      "Name": "[2]屋顶3"
+    },
+    {
+      "Id": "Param_Angle_Rotation99",
+      "GroupId": "",
+      "Name": "[3]屋顶3"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "bgbow_2_Skinning",
+      "Name": "bgbow_2(蒙皮)"
+    },
+    {
+      "Id": "bgbow_3_Skinning",
+      "Name": "bgbow_3(蒙皮)"
+    },
+    {
+      "Id": "bgbow_4_Skinning",
+      "Name": "bgbow_4(蒙皮)"
+    },
+    {
+      "Id": "bgbow_5_Skinning",
+      "Name": "bgbow_5(蒙皮)"
+    },
+    {
+      "Id": "curtains_10_Skinning",
+      "Name": "curtains_10(蒙皮)"
+    },
+    {
+      "Id": "curtains_11_Skinning",
+      "Name": "curtains_11(蒙皮)"
+    },
+    {
+      "Id": "curtains_12_Skinning",
+      "Name": "curtains_12(蒙皮)"
+    },
+    {
+      "Id": "curtains_1_Skinning",
+      "Name": "curtains_1(蒙皮)"
+    },
+    {
+      "Id": "curtains_3_Skinning",
+      "Name": "curtains_3(蒙皮)"
+    },
+    {
+      "Id": "curtains_4_Skinning",
+      "Name": "curtains_4(蒙皮)"
+    },
+    {
+      "Id": "curtains_5_Skinning",
+      "Name": "curtains_5(蒙皮)"
+    },
+    {
+      "Id": "curtains_6_Skinning",
+      "Name": "curtains_6(蒙皮)"
+    },
+    {
+      "Id": "curtains_7_Skinning",
+      "Name": "curtains_7(蒙皮)"
+    },
+    {
+      "Id": "curtains_9_Skinning",
+      "Name": "curtains_9(蒙皮)"
+    },
+    {
+      "Id": "dn_11_Skinning",
+      "Name": "dn_11(蒙皮)"
+    },
+    {
+      "Id": "dn_12_Skinning",
+      "Name": "dn_12(蒙皮)"
+    },
+    {
+      "Id": "dn_13_Skinning",
+      "Name": "dn_13(蒙皮)"
+    },
+    {
+      "Id": "dn_16_Skinning",
+      "Name": "dn_16(蒙皮)"
+    },
+    {
+      "Id": "dn_17_Skinning",
+      "Name": "dn_17(蒙皮)"
+    },
+    {
+      "Id": "dn_18_Skinning",
+      "Name": "dn_18(蒙皮)"
+    },
+    {
+      "Id": "dn_26_Skinning",
+      "Name": "dn_26(蒙皮)"
+    },
+    {
+      "Id": "dn_27_Skinning",
+      "Name": "dn_27(蒙皮)"
+    },
+    {
+      "Id": "dn_28_Skinning",
+      "Name": "dn_28(蒙皮)"
+    },
+    {
+      "Id": "dn_29_Skinning",
+      "Name": "dn_29(蒙皮)"
+    },
+    {
+      "Id": "dn_30_Skinning",
+      "Name": "dn_30(蒙皮)"
+    },
+    {
+      "Id": "dn_8_Skinning",
+      "Name": "dn_8(蒙皮)"
+    },
+    {
+      "Id": "Part",
+      "Name": "窗帘"
+    },
+    {
+      "Id": "Part2",
+      "Name": "圣诞树一坨"
+    },
+    {
+      "Id": "Part3",
+      "Name": "顶部装饰"
+    },
+    {
+      "Id": "Part4",
+      "Name": "特丽莎"
+    },
+    {
+      "Id": "Part5",
+      "Name": "多娜"
+    },
+    {
+      "Id": "tls_10_Skinning",
+      "Name": "tls_10(蒙皮)"
+    },
+    {
+      "Id": "tls_10_Skinning2",
+      "Name": "tls_10(蒙皮)"
+    },
+    {
+      "Id": "tls_13_Skinning",
+      "Name": "tls_13(蒙皮)"
+    },
+    {
+      "Id": "tls_15_Skinning",
+      "Name": "tls_15(蒙皮)"
+    },
+    {
+      "Id": "tls_16_Skinning",
+      "Name": "tls_16(蒙皮)"
+    },
+    {
+      "Id": "tls_18_Skinning",
+      "Name": "tls_18(蒙皮)"
+    },
+    {
+      "Id": "tls_20_Skinning",
+      "Name": "tls_20(蒙皮)"
+    },
+    {
+      "Id": "tls_22_Skinning",
+      "Name": "tls_22(蒙皮)"
+    },
+    {
+      "Id": "tls_23_Skinning",
+      "Name": "tls_23(蒙皮)"
+    },
+    {
+      "Id": "tls_24_Skinning",
+      "Name": "tls_24(蒙皮)"
+    },
+    {
+      "Id": "tls_5_Skinning",
+      "Name": "tls_5(蒙皮)"
+    },
+    {
+      "Id": "tls_8_Skinning",
+      "Name": "tls_8(蒙皮)"
+    },
+    {
+      "Id": "tls_9_Skinning",
+      "Name": "tls_9(蒙皮)"
+    },
+    {
+      "Id": "top_11_Skinning",
+      "Name": "top_11(蒙皮)"
+    },
+    {
+      "Id": "top_2_Skinning",
+      "Name": "top_2(蒙皮)"
+    },
+    {
+      "Id": "top_3_Skinning",
+      "Name": "top_3(蒙皮)"
+    },
+    {
+      "Id": "top_4_Skinning",
+      "Name": "top_4(蒙皮)"
+    },
+    {
+      "Id": "top_5_Skinning",
+      "Name": "top_5(蒙皮)"
+    },
+    {
+      "Id": "top_6_Skinning",
+      "Name": "top_6(蒙皮)"
+    },
+    {
+      "Id": "top_8_Skinning",
+      "Name": "top_8(蒙皮)"
+    },
+    {
+      "Id": "top_9_Skinning",
+      "Name": "top_9(蒙皮)"
+    },
+    {
+      "Id": "tree_2_Skinning",
+      "Name": "tree_2(蒙皮)"
+    },
+    {
+      "Id": "tree_5_Skinning",
+      "Name": "tree_5(蒙皮)"
+    },
+    {
+      "Id": "tree_6_Skinning",
+      "Name": "tree_6(蒙皮)"
+    },
+    {
+      "Id": "tree_8_Skinning",
+      "Name": "tree_8(蒙皮)"
+    },
+    {
+      "Id": "tree_9_Skinning",
+      "Name": "tree_9(蒙皮)"
+    }
+  ]
+}

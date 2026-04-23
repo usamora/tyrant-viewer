@@ -1,0 +1,68 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "左腿"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "右腿"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "左脚"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "左脚趾"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "右脚趾"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "右脚"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "镜头y"
+    },
+    {
+      "Id": "ParamAll",
+      "GroupId": "",
+      "Name": "all"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "leg_L_Skinning",
+      "Name": "leg_L(蒙皮)"
+    },
+    {
+      "Id": "leg_R_1_Skinning",
+      "Name": "leg_R_1(蒙皮)"
+    },
+    {
+      "Id": "leg_R_2_Skinning",
+      "Name": "leg_R_2(蒙皮)"
+    },
+    {
+      "Id": "line_Skinning",
+      "Name": "line(蒙皮)"
+    },
+    {
+      "Id": "Part",
+      "Name": "bg"
+    }
+  ]
+}

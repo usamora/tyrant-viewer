@@ -1,0 +1,214 @@
+{
+  "Version": 3,
+  "Name": "14301_F_b",
+  "FileReferences": {
+    "Moc": "14301_F_b.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": "14301_F_b.physics3.json",
+    "Pose": null,
+    "DisplayInfo": "14301_F_b.cdi3.json",
+    "Motions": {
+      "full_0": [
+        {
+          "File": "motions/full_0.motion3.json"
+        }
+      ],
+      "full_2": [
+        {
+          "File": "motions/full_2.motion3.json"
+        }
+      ],
+      "full_3": [
+        {
+          "File": "motions/full_3.motion3.json"
+        }
+      ],
+      "full_idle": [
+        {
+          "File": "motions/full_idle.motion3.json"
+        }
+      ],
+      "idle": [
+        {
+          "File": "motions/idle.motion3.json"
+        }
+      ],
+      "idle_a_cn": [
+        {
+          "File": "motions/idle_a_cn.motion3.json"
+        }
+      ],
+      "idle_a_jp": [
+        {
+          "File": "motions/idle_a_jp.motion3.json"
+        }
+      ],
+      "idle_b_cn": [
+        {
+          "File": "motions/idle_b_cn.motion3.json"
+        }
+      ],
+      "idle_b_jp": [
+        {
+          "File": "motions/idle_b_jp.motion3.json"
+        }
+      ],
+      "idle_c_cn": [
+        {
+          "File": "motions/idle_c_cn.motion3.json"
+        }
+      ],
+      "idle_c_jp": [
+        {
+          "File": "motions/idle_c_jp.motion3.json"
+        }
+      ],
+      "idle_d_cn": [
+        {
+          "File": "motions/idle_d_cn.motion3.json"
+        }
+      ],
+      "idle_d_jp": [
+        {
+          "File": "motions/idle_d_jp.motion3.json"
+        }
+      ],
+      "idle_e_cn": [
+        {
+          "File": "motions/idle_e_cn.motion3.json"
+        }
+      ],
+      "idle_e_jp": [
+        {
+          "File": "motions/idle_e_jp.motion3.json"
+        }
+      ],
+      "idle_f_cn": [
+        {
+          "File": "motions/idle_f_cn.motion3.json"
+        }
+      ],
+      "idle_f_jp": [
+        {
+          "File": "motions/idle_f_jp.motion3.json"
+        }
+      ],
+      "idle_g_cn": [
+        {
+          "File": "motions/idle_g_cn.motion3.json"
+        }
+      ],
+      "idle_g_jp": [
+        {
+          "File": "motions/idle_g_jp.motion3.json"
+        }
+      ],
+      "idle_h_cn": [
+        {
+          "File": "motions/idle_h_cn.motion3.json"
+        }
+      ],
+      "idle_h_jp": [
+        {
+          "File": "motions/idle_h_jp.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_a_cn": [
+        {
+          "File": "motions/vo_cgstory_143_a_cn.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_a_jp": [
+        {
+          "File": "motions/vo_cgstory_143_a_jp.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_b_cn": [
+        {
+          "File": "motions/vo_cgstory_143_b_cn.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_b_jp": [
+        {
+          "File": "motions/vo_cgstory_143_b_jp.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_c_cn": [
+        {
+          "File": "motions/vo_cgstory_143_c_cn.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_c_jp": [
+        {
+          "File": "motions/vo_cgstory_143_c_jp.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_d_cn": [
+        {
+          "File": "motions/vo_cgstory_143_d_cn.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_d_jp": [
+        {
+          "File": "motions/vo_cgstory_143_d_jp.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_e_cn": [
+        {
+          "File": "motions/vo_cgstory_143_e_cn.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_e_jp": [
+        {
+          "File": "motions/vo_cgstory_143_e_jp.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_f_cn": [
+        {
+          "File": "motions/vo_cgstory_143_f_cn.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_f_jp": [
+        {
+          "File": "motions/vo_cgstory_143_f_jp.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_g_cn": [
+        {
+          "File": "motions/vo_cgstory_143_g_cn.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_g_jp": [
+        {
+          "File": "motions/vo_cgstory_143_g_jp.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_h_cn": [
+        {
+          "File": "motions/vo_cgstory_143_h_cn.motion3.json"
+        }
+      ],
+      "vo_cgstory_143_h_jp": [
+        {
+          "File": "motions/vo_cgstory_143_h_jp.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}
