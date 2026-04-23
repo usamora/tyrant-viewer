@@ -21,6 +21,14 @@ export async function loadModel(
     const model = await Live2DModel.from(newModelPath);
 
     camera.addChild(model);
+
+    //set model position back
+    model.anchor.set(0.5, 0.5);
+    const width = app.renderer.width;
+    const height = app.renderer.height;
+    model.x = width / 2;
+    model.y = height / 2;
+
     setModel(model);
 
     fitModelToScreen(app);
