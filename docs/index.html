@@ -6,7 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tyrant viewer</title>
     <script src="/tyrant-viewer/live2dcubismcore.js"></script>
-  <script type="module" crossorigin src="/tyrant-viewer/assets/index-DqaCVsCq.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <script type="module" crossorigin src="/tyrant-viewer/assets/index-DmaWCFcx.js"></script>
   <link rel="modulepreload" crossorigin href="/tyrant-viewer/assets/rolldown-runtime-S-ySWqyJ.js">
   <link rel="modulepreload" crossorigin href="/tyrant-viewer/assets/Geometry-BePbx_us.js">
   <link rel="modulepreload" crossorigin href="/tyrant-viewer/assets/GCManagedHash-wXX83Nsp.js">
@@ -449,20 +453,84 @@
     }
 </style>
 <style>
+    body {
+        font-family: "Roboto", sans-serif;
+        font-style: normal;
+        font-variation-settings:
+            "wdth" 100;
+    }
+
     #main-canvas {
         width: 100%;
         height: 100vh;
+    }
+
+    #entity-list_wrapper {
+        min-width: 500px;
+        position: absolute;
+        z-index: 20;
+        background-color: #ffffff14;
+        right: 0;
+        color: #264278;
+    }
+
+    .entity-list_container {
+        margin: 10px;
+        padding: 10px;
+        background-color: #f1f5f7;
+        border-radius: 5px;
+        overflow: auto;
+    }
+
+    #entity-list {
+        max-height: 95vh;
+    }
+
+    .character-name {
+        padding: 0 5px;
+        display: block;
+        width: 100%;
+    }
+
+    .entity-block:has(.character-variation_button:hover) {
+        .character-name {
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 150ms;
+            background-color: #17c9d3;
+            color: #f9f9f7;
+        }
+    }
+
+    .character-variation {
+        margin-left: 15px;
+
+        .character-variation_button {
+            padding: 0 5px;
+            width: 100%;
+            cursor: pointer;
+            text-align: left;
+
+            &:hover {
+                transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+                transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+                transition-duration: 150ms;
+                background-color: #17c9d3;
+                color: #f9f9f7;
+            }
+        }
     }
 </style>
 
 <body>
     <div id="app" style="display:flex; position: relative;">
         <div id="main-canvas" style="width: 100%; height: 100vh; z-index: 1;"></div>
-        <div id="entity-list_wrapper"
-            style="min-width: 500px; height: 100vh; position: absolute; z-index: 20; background-color: wheat; right: 0;">
-            <ul id="entity-list">
+        <div id="entity-list_wrapper">
+            <div class="entity-list_container">
+                <ul id="entity-list">
 
-            </ul>
+                </ul>
+            </div>
         </div>
     </div>
 </body>
