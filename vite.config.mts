@@ -4,7 +4,7 @@ import path from 'path';
 export default defineConfig((env: ConfigEnv): UserConfig => {
   let common: UserConfig = {
     root: './',
-    base: '/',
+    base: '/tyrant-viewer/',
     publicDir: './public',
     resolve: {
       extensions: ['.ts', '.js'],
