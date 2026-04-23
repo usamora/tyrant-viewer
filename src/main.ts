@@ -43,6 +43,9 @@ document.addEventListener('DOMContentLoaded', async () => {
   model.anchor.set(0.5);
   model.position.set(app.screen.width / 2, app.screen.height / 2);
 
+  // TODO: add checkbox to enable/disable interaction
+  // model.interactive = false
+  
   setModel(model);
 
   fitModelToScreen(app);
@@ -56,6 +59,6 @@ document.addEventListener('DOMContentLoaded', async () => {
   handleResize(app, camera);
 
   enableDrag(app, camera);
-  enableZoom(camera);
+  enableZoom(app, camera);
 });
 

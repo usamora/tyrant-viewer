@@ -1,9 +1,10 @@
-import type { Container } from "pixi.js";
+import type { Application, Container } from "pixi.js";
 
 export function enableZoom(
+    app: Application,
     camera: Container
 ) {
-  window.addEventListener("wheel", (e) => {
+  app.canvas.addEventListener("wheel", (e) => {
     e.preventDefault();
 
     const scaleFactor = 1 - e.deltaY * 0.001;

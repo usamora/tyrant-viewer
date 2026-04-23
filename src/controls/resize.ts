@@ -4,7 +4,9 @@ export function handleResize(
   app: Application, 
   camera: Container
 ) {
-  window.addEventListener("resize", () => {
+  app.canvas.addEventListener("resize", (e) => {
+    e.stopPropagation();
+
     const canvas = document.querySelector("#main-canvas") as HTMLElement;
 
     const width = canvas.clientWidth;
@@ -12,7 +14,8 @@ export function handleResize(
 
     app.renderer.resize(width, height);
 
-    camera.x = width / 2;
-    camera.y = height / 2;
+    camera.x = 0;
+    camera.y = 0;
+    camera.scale.set(1);
   })
 }
