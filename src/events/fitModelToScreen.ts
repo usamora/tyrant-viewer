@@ -1,7 +1,11 @@
-import type { Container, Application } from "pixi.js";
-type Live2DModel = Container;
+import type { Application } from "pixi.js";
+import { getModel, setModel } from "../state/modelState";
 
-export function fitModelToScreen(app: Application, model: Live2DModel) {
+export function fitModelToScreen(
+  app: Application, 
+) {
+  const model = getModel();
+
   const screenWidth = app.renderer.width;
   const screenHeight = app.renderer.height;
 
@@ -18,4 +22,6 @@ export function fitModelToScreen(app: Application, model: Live2DModel) {
 
   model.x = screenWidth / 2;
   model.y = screenHeight / 2;
+
+  setModel(model);
 }

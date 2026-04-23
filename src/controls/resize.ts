@@ -1,7 +1,9 @@
 import type { Container, Application } from "pixi.js";
-type Live2DModel = Container;
 
-export function handleResize(app: Application, model: Live2DModel) {
+export function handleResize(
+  app: Application, 
+  camera: Container
+) {
   window.addEventListener("resize", () => {
     const canvas = document.querySelector("#main-canvas") as HTMLElement;
 
@@ -10,7 +12,7 @@ export function handleResize(app: Application, model: Live2DModel) {
 
     app.renderer.resize(width, height);
 
-    model.x = width / 2;
-    model.y = height / 2;
+    camera.x = width / 2;
+    camera.y = height / 2;
   })
 }

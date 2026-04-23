@@ -1,12 +1,19 @@
-import { Application } from 'pixi.js'
+import { Application, Container } from 'pixi.js'
 import { Live2DModel } from 'untitled-pixi-live2d-engine/cubism'
 import { 
   enableDrag, 
   enableZoom, 
   handleResize 
 } from './controls/index';
+import { 
+  fitModelToScreen,
+  createCharactersList
+} from './events/index';
+import { setModel } from './state/modelState';
 
-import { fitModelToScreen } from './events/index';
+interface ApplicationExtended extends Application {
+  camera: Container
+}
 
 document.addEventListener('DOMContentLoaded', async () => {
   const app = new Application()
@@ -16,7 +23,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     autoDensity: true,
     resolution: window.devicePixelRatio,
     antialias: true,
-  })
+  });
 
   const canvas = document.getElementById('main-canvas');
   if(canvas) {
@@ -29,16 +36,24 @@ document.addEventListener('DOMContentLoaded', async () => {
   //   memorySizeMB: 32
   // })
 
-  const model = await Live2DModel.from('src/assets/chars/10301/10301_l/10301_L.model3.json')
-  model.anchor.set(0.5)
-  model.position.set(app.screen.width / 2, app.screen.height / 2)
+  let model = await Live2DModel.from('/assets/chars/10301/10301_l/10301_L.model3.json');
 
-  enableDrag(model);
-  enableZoom(model);
-  handleResize(app, model);
+  model.anchor.set(0.5);
+  model.position.set(app.screen.width / 2, app.screen.height / 2);
 
-  fitModelToScreen(app, model);
+  setModel(model);
 
-  app.stage.addChild(model);
+  fitModelToScreen(app);
+
+  const camera = new Container();
+  app.stage.addChild(camera);
+  (app as ApplicationExtended).camera = camera;
+  camera.addChild(model);
+
+  createCharactersList(app);
+  handleResize(app, camera);
+
+  enableDrag(app, camera);
+  enableZoom(camera);
 });
 
