@@ -36,7 +36,9 @@ document.addEventListener('DOMContentLoaded', async () => {
   //   memorySizeMB: 32
   // })
 
-  let model = await Live2DModel.from('/assets/chars/10301/10301_l/10301_L.model3.json');
+  let model = await Live2DModel.from(
+    import.meta.env.BASE_URL + '/assets/chars/10301/10301_l/10301_L.model3.json'
+  );
 
   model.anchor.set(0.5);
   model.position.set(app.screen.width / 2, app.screen.height / 2);

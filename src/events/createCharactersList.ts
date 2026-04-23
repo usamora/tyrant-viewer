@@ -19,7 +19,7 @@ export function createCharactersList(
         entityButton.addEventListener('click', async (e: any) => {
             let charId = e.target.dataset.charId;
 
-            const newModelPath = `/assets/chars/${charId}/${charId}_l/${charId}_L.model3.json`;
+            const newModelPath = import.meta.env.BASE_URL + `/assets/chars/${charId}/${charId}_l/${charId}_L.model3.json`;
 
             await loadModel(app, newModelPath);
         });
