@@ -24,7 +24,7 @@
       "@framework/*": ["./live2d/Framework/src/*"]
     },
   },
-  "include": ["src", "src/live2dcubismcore.min.js"],
+  "include": ["src", "src/live2d/live2dcubismcore.min.js"],
   "exclude": [
     "node_modules",
     "dist"
