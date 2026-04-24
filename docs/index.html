@@ -466,7 +466,8 @@
     }
 
     #entity-list_wrapper {
-        min-width: 450px;
+        padding: 10px;
+        min-width: 400px;
         position: absolute;
         z-index: 20;
         background-color: #ffffff14;
@@ -474,10 +475,9 @@
         top: 0;
         bottom: 0;
         color: #264278;
-        overflow: auto;
 
         .entity-list_container {
-            margin: 10px;
+            height: 100%;
             background-color: #f1f5f7;
             border-radius: 5px;
         }
@@ -507,6 +507,8 @@
 
     #entity-list {
         padding: 10px;
+        overflow-x: auto;
+        height: 90%;
 
         .character-name {
             padding: 0 5px;
