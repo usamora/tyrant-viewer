@@ -466,52 +466,56 @@
     }
 
     #entity-list_wrapper {
-        min-width: 500px;
+        min-width: 450px;
         position: absolute;
         z-index: 20;
         background-color: #ffffff14;
         right: 0;
+        top: 0;
+        bottom: 0;
         color: #264278;
-    }
-
-    .entity-list_container {
-        margin: 10px;
-        padding: 10px;
-        background-color: #f1f5f7;
-        border-radius: 5px;
         overflow: auto;
-    }
 
-    #entity-list {
-        max-height: 95vh;
-    }
+        .entity-list_container {
+            margin: 10px;
+            background-color: #f1f5f7;
+            border-radius: 5px;
+        }
 
-    .character-name {
-        padding: 0 5px;
-        display: block;
-        width: 100%;
-    }
-
-    .entity-block:has(.character-variation_button:hover) {
-        .character-name {
-            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
-            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-            transition-duration: 150ms;
-            background-color: #17c9d3;
+        .entity-list_title {
+            position: relative;
             color: #f9f9f7;
+            font-size: 1.5em;
+            background-color: #264278;
+            padding: 8px 20px 10px 15px;
+            display: inline-block;
+            z-index: 2;
+            border-top-left-radius: 4px;
+        }
+
+        .entity-list_title::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: -8%;
+            width: 20%;
+            height: 100%;
+            background: #264278;
+            transform: skewX(-15deg);
         }
     }
 
-    .character-variation {
-        margin-left: 15px;
+    #entity-list {
+        padding: 10px;
 
-        .character-variation_button {
+        .character-name {
             padding: 0 5px;
+            display: block;
             width: 100%;
-            cursor: pointer;
-            text-align: left;
+        }
 
-            &:hover {
+        .entity-block:has(.character-variation_button:hover) {
+            .character-name {
                 transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
                 transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
                 transition-duration: 150ms;
@@ -519,17 +523,39 @@
                 color: #f9f9f7;
             }
         }
+
+        .character-variation {
+            margin-left: 15px;
+
+            .character-variation_button {
+                padding: 2px 5px;
+                width: 100%;
+                cursor: pointer;
+                text-align: left;
+
+                &:hover {
+                    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+                    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+                    transition-duration: 150ms;
+                    background-color: #17c9d3;
+                    color: #f9f9f7;
+                }
+            }
+        }
     }
 </style>
 
 <body>
-    <div id="app" style="display:flex; position: relative;">
-        <div id="main-canvas" style="width: 100%; height: 100vh; z-index: 1;"></div>
+    <div id="app">
+        <div id="main-canvas"></div>
         <div id="entity-list_wrapper">
             <div class="entity-list_container">
-                <ul id="entity-list">
-
-                </ul>
+                <div class="entity-list_top">
+                    <div class="entity-list_title">
+                        <span>Trekkers</span>
+                    </div>
+                </div>
+                <ul id="entity-list"></ul>
             </div>
         </div>
     </div>
