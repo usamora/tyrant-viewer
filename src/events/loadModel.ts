@@ -13,14 +13,22 @@ export async function loadModel(
     const camera = (app as ApplicationExtended).camera;
     const currentModel = getModel();
     
-    camera.removeChild(currentModel);
-    currentModel.destroy({ children: true });
+    if (currentModel) {
+        camera.removeChild(currentModel);
+        currentModel.destroy({ 
+            children: true,
+            texture: true,
+            baseTexture: true 
+        });
+    }
 
     await new Promise(r => requestAnimationFrame(r));
 
     const model = await Live2DModel.from(newModelPath);
 
     camera.addChild(model);
+
+    model.interactive = false;
 
     //reset model and camera position on canvas
     model.position.set(0, 0);
