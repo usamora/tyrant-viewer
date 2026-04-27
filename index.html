@@ -452,16 +452,44 @@
         height: 100vh;
     }
 
+    .entity-list_close,
+    .entity-list_open {
+        display: block;
+        width: 50px;
+        height: 100%;
+        font-size: 24px;
+    }
+
+    .entity-list_open {
+        position: absolute;
+        top: 0;
+        right: 0;
+        display: none;
+        background-color: #f1f5f7;
+        height: 54px;
+        border-radius: 5px;
+        stroke: #264278;
+    }
+
     #entity-list_wrapper {
-        padding: 10px;
-        min-width: 400px;
         position: absolute;
         z-index: 20;
+        min-width: 200px;
         background-color: #ffffff14;
         right: 0;
         top: 0;
         bottom: 0;
         color: #264278;
+
+        @media (min-width: 1024px) {
+            padding: 10px;
+            min-width: 400px;
+        }
+
+        .entity-list_top {
+            display: flex;
+            justify-content: space-between;
+        }
 
         .entity-list_container {
             height: 100%;
@@ -537,11 +565,20 @@
 <body>
     <div id="app">
         <div id="main-canvas"></div>
+        <button class="entity-list_open" type="button">
+            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="48" viewBox="0 0 48 48">
+                <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M7.95 11.95h32m-32 12h32m-32 12h32"/></svg>
+        </button>
         <div id="entity-list_wrapper">
             <div class="entity-list_container">
+                <div style="position: absolute;">
+                </div>
                 <div class="entity-list_top">
                     <div class="entity-list_title">
                         <span>Trekkers</span>
+                    </div>
+                    <div>
+                        <button class="entity-list_close" type="button">X</button>
                     </div>
                 </div>
                 <ul id="entity-list"></ul>

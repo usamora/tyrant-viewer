@@ -1,7 +1,9 @@
 import { Application, Container } from 'pixi.js'
 import { 
+  handleMenuState,
   enableDrag, 
-  enableZoom, 
+  enableZoom,
+  enableTouchZoom,
   handleResize 
 } from './controls/index';
 import { 
@@ -50,4 +52,6 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   enableDrag(app, camera);
   enableZoom(app, camera);
+  enableTouchZoom(app, camera);
+  handleMenuState();
 });
